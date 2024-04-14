@@ -12,7 +12,7 @@ from helpers.control import header_control
 
 @asynccontextmanager
 async def lifespan(app: FastAPI):
-    await create_all()
+    #  await create_all()
     yield
 
 
