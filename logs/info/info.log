@@ -1,0 +1,570 @@
+2024-04-13 23:03:50,466 - fastapi - ERROR - Form data requires "python-multipart" to be installed. 
+You can install "python-multipart" with: 
+
+pip install python-multipart
+
+2024-04-13 23:07:04,201 - main - INFO - Запрос от пользователя: 1234565432
+2024-04-13 23:07:04,209 - easyocr.easyocr - WARNING - Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2024-04-13 23:07:13,031 - model.recognition - INFO - Распознанные данные: result['text']='социальная цен;' => result['prob']=0.92
+2024-04-13 23:07:13,031 - model.recognition - INFO - Распознанные данные: result['text']='мак' => result['prob']=1.0
+2024-04-13 23:07:13,032 - model.recognition - INFO - Распознанные данные: result['text']='урожай' => result['prob']=1.0
+2024-04-13 23:07:13,033 - model.recognition - INFO - Распознанные данные: result['text']='кг' => result['prob']=1.0
+2024-04-13 23:07:13,033 - model.recognition - INFO - Распознанные данные: result['text']='19420' => result['prob']=1.0
+2024-04-13 23:07:13,034 - model.recognition - INFO - Распознанные данные: result['text']='56' => result['prob']=1.0
+2024-04-13 23:07:13,034 - model.recognition - INFO - Распознанные данные: result['text']='70' => result['prob']=1.0
+2024-04-13 23:07:13,034 - model.recognition - INFO - Распознанные данные: result['text']='а#щ>' => result['prob']=0.11
+2024-04-13 23:07:13,035 - model.recognition - INFO - Распознанные данные: result['text']='руе' => result['prob']=0.94
+2024-04-13 23:07:13,035 - model.recognition - INFO - Распознанные данные: result['text']='изд' => result['prob']=0.89
+2024-04-13 23:07:13,036 - model.recognition - INFO - Распознанные данные: result['text']='перо' => result['prob']=1.0
+2024-04-13 23:07:13,037 - model.recognition - INFO - Ценник успешно распознан
+2024-04-13 23:08:46,110 - main - INFO - Запрос от пользователя: 1234565432
+2024-04-13 23:08:46,114 - easyocr.easyocr - WARNING - Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2024-04-13 23:08:54,974 - model.recognition - INFO - Распознанные данные: result['text']='социальная цен;' => result['prob']=0.92
+2024-04-13 23:08:54,975 - model.recognition - INFO - Распознанные данные: result['text']='мак' => result['prob']=1.0
+2024-04-13 23:08:54,976 - model.recognition - INFO - Распознанные данные: result['text']='урожай' => result['prob']=1.0
+2024-04-13 23:08:54,976 - model.recognition - INFO - Распознанные данные: result['text']='кг' => result['prob']=1.0
+2024-04-13 23:08:54,977 - model.recognition - INFO - Распознанные данные: result['text']='19420' => result['prob']=1.0
+2024-04-13 23:08:54,977 - model.recognition - INFO - Распознанные данные: result['text']='56' => result['prob']=1.0
+2024-04-13 23:08:54,978 - model.recognition - INFO - Распознанные данные: result['text']='70' => result['prob']=1.0
+2024-04-13 23:08:54,978 - model.recognition - INFO - Распознанные данные: result['text']='а#щ>' => result['prob']=0.11
+2024-04-13 23:08:54,979 - model.recognition - INFO - Распознанные данные: result['text']='руе' => result['prob']=0.94
+2024-04-13 23:08:54,979 - model.recognition - INFO - Распознанные данные: result['text']='изд' => result['prob']=0.89
+2024-04-13 23:08:54,980 - model.recognition - INFO - Распознанные данные: result['text']='перо' => result['prob']=1.0
+2024-04-13 23:08:54,980 - model.recognition - INFO - Ценник успешно распознан
+2024-04-13 23:08:59,922 - helpers.cloud_storage - INFO - Ценник загружен по пути: ****/1713038926-1234565432.png
+2024-04-13 23:10:02,224 - main - INFO - Запрос от пользователя: 1234565432
+2024-04-13 23:10:02,227 - easyocr.easyocr - WARNING - Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2024-04-13 23:10:10,544 - model.recognition - INFO - Распознанные данные: result['text']='социальная цен;' => result['prob']=0.92
+2024-04-13 23:10:10,545 - model.recognition - INFO - Распознанные данные: result['text']='мак' => result['prob']=1.0
+2024-04-13 23:10:10,546 - model.recognition - INFO - Распознанные данные: result['text']='урожай' => result['prob']=1.0
+2024-04-13 23:10:10,547 - model.recognition - INFO - Распознанные данные: result['text']='кг' => result['prob']=1.0
+2024-04-13 23:10:10,547 - model.recognition - INFO - Распознанные данные: result['text']='19420' => result['prob']=1.0
+2024-04-13 23:10:10,548 - model.recognition - INFO - Распознанные данные: result['text']='56' => result['prob']=1.0
+2024-04-13 23:10:10,548 - model.recognition - INFO - Распознанные данные: result['text']='70' => result['prob']=1.0
+2024-04-13 23:10:10,549 - model.recognition - INFO - Распознанные данные: result['text']='а#щ>' => result['prob']=0.11
+2024-04-13 23:10:10,549 - model.recognition - INFO - Распознанные данные: result['text']='руе' => result['prob']=0.94
+2024-04-13 23:10:10,550 - model.recognition - INFO - Распознанные данные: result['text']='изд' => result['prob']=0.89
+2024-04-13 23:10:10,550 - model.recognition - INFO - Распознанные данные: result['text']='перо' => result['prob']=1.0
+2024-04-13 23:10:10,550 - model.recognition - INFO - Ценник успешно распознан
+2024-04-13 23:10:14,849 - helpers.cloud_storage - INFO - Ценник загружен по пути: ****/1713039002-1234565432.png
+2024-04-13 23:12:44,523 - main - INFO - Запрос от пользователя: 1234565432
+2024-04-13 23:12:44,530 - easyocr.easyocr - WARNING - Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2024-04-13 23:12:50,846 - model.recognition - INFO - Распознанные данные: result['text']='социальная цена' => result['prob']=0.98
+2024-04-13 23:12:50,847 - model.recognition - INFO - Распознанные данные: result['text']='59' => result['prob']=1.0
+2024-04-13 23:12:50,847 - model.recognition - INFO - Распознанные данные: result['text']='@' => result['prob']=0.66
+2024-04-13 23:12:50,847 - model.recognition - INFO - Распознанные данные: result['text']='еу~' => result['prob']=0.17
+2024-04-13 23:12:50,848 - main - ERROR - Ошибка распознавания цены
+2024-04-14 07:30:01,681 - sqlalchemy.engine.Engine - INFO - select pg_catalog.version()
+2024-04-14 07:30:01,692 - sqlalchemy.engine.Engine - INFO - [raw sql] ()
+2024-04-14 07:30:01,853 - sqlalchemy.engine.Engine - INFO - select current_schema()
+2024-04-14 07:30:01,853 - sqlalchemy.engine.Engine - INFO - [raw sql] ()
+2024-04-14 07:30:02,008 - sqlalchemy.engine.Engine - INFO - show standard_conforming_strings
+2024-04-14 07:30:02,009 - sqlalchemy.engine.Engine - INFO - [raw sql] ()
+2024-04-14 07:30:02,130 - sqlalchemy.engine.Engine - INFO - BEGIN (implicit)
+2024-04-14 07:30:02,135 - sqlalchemy.engine.Engine - INFO - SELECT pg_catalog.pg_class.relname 
+FROM pg_catalog.pg_class JOIN pg_catalog.pg_namespace ON pg_catalog.pg_namespace.oid = pg_catalog.pg_class.relnamespace 
+WHERE pg_catalog.pg_class.relname = $1::VARCHAR AND pg_catalog.pg_class.relkind = ANY (ARRAY[$2::VARCHAR, $3::VARCHAR, $4::VARCHAR, $5::VARCHAR, $6::VARCHAR]) AND pg_catalog.pg_table_is_visible(pg_catalog.pg_class.oid) AND pg_catalog.pg_namespace.nspname != $7::VARCHAR
+2024-04-14 07:30:02,135 - sqlalchemy.engine.Engine - INFO - [generated in 0.00068s] ('managers', 'r', 'p', 'f', 'v', 'm', 'pg_catalog')
+2024-04-14 07:30:02,255 - sqlalchemy.engine.Engine - INFO - SELECT pg_catalog.pg_class.relname 
+FROM pg_catalog.pg_class JOIN pg_catalog.pg_namespace ON pg_catalog.pg_namespace.oid = pg_catalog.pg_class.relnamespace 
+WHERE pg_catalog.pg_class.relname = $1::VARCHAR AND pg_catalog.pg_class.relkind = ANY (ARRAY[$2::VARCHAR, $3::VARCHAR, $4::VARCHAR, $5::VARCHAR, $6::VARCHAR]) AND pg_catalog.pg_table_is_visible(pg_catalog.pg_class.oid) AND pg_catalog.pg_namespace.nspname != $7::VARCHAR
+2024-04-14 07:30:02,256 - sqlalchemy.engine.Engine - INFO - [cached since 0.1214s ago] ('tickets', 'r', 'p', 'f', 'v', 'm', 'pg_catalog')
+2024-04-14 07:30:02,295 - sqlalchemy.engine.Engine - INFO - SELECT pg_catalog.pg_class.relname 
+FROM pg_catalog.pg_class JOIN pg_catalog.pg_namespace ON pg_catalog.pg_namespace.oid = pg_catalog.pg_class.relnamespace 
+WHERE pg_catalog.pg_class.relname = $1::VARCHAR AND pg_catalog.pg_class.relkind = ANY (ARRAY[$2::VARCHAR, $3::VARCHAR, $4::VARCHAR, $5::VARCHAR, $6::VARCHAR]) AND pg_catalog.pg_table_is_visible(pg_catalog.pg_class.oid) AND pg_catalog.pg_namespace.nspname != $7::VARCHAR
+2024-04-14 07:30:02,296 - sqlalchemy.engine.Engine - INFO - [cached since 0.1614s ago] ('executors_tickets', 'r', 'p', 'f', 'v', 'm', 'pg_catalog')
+2024-04-14 07:30:02,333 - sqlalchemy.engine.Engine - INFO - SELECT pg_catalog.pg_class.relname 
+FROM pg_catalog.pg_class JOIN pg_catalog.pg_namespace ON pg_catalog.pg_namespace.oid = pg_catalog.pg_class.relnamespace 
+WHERE pg_catalog.pg_class.relname = $1::VARCHAR AND pg_catalog.pg_class.relkind = ANY (ARRAY[$2::VARCHAR, $3::VARCHAR, $4::VARCHAR, $5::VARCHAR, $6::VARCHAR]) AND pg_catalog.pg_table_is_visible(pg_catalog.pg_class.oid) AND pg_catalog.pg_namespace.nspname != $7::VARCHAR
+2024-04-14 07:30:02,334 - sqlalchemy.engine.Engine - INFO - [cached since 0.2002s ago] ('users', 'r', 'p', 'f', 'v', 'm', 'pg_catalog')
+2024-04-14 07:30:02,373 - sqlalchemy.engine.Engine - INFO - SELECT pg_catalog.pg_class.relname 
+FROM pg_catalog.pg_class JOIN pg_catalog.pg_namespace ON pg_catalog.pg_namespace.oid = pg_catalog.pg_class.relnamespace 
+WHERE pg_catalog.pg_class.relname = $1::VARCHAR AND pg_catalog.pg_class.relkind = ANY (ARRAY[$2::VARCHAR, $3::VARCHAR, $4::VARCHAR, $5::VARCHAR, $6::VARCHAR]) AND pg_catalog.pg_table_is_visible(pg_catalog.pg_class.oid) AND pg_catalog.pg_namespace.nspname != $7::VARCHAR
+2024-04-14 07:30:02,374 - sqlalchemy.engine.Engine - INFO - [cached since 0.2404s ago] ('tickets_details', 'r', 'p', 'f', 'v', 'm', 'pg_catalog')
+2024-04-14 07:30:02,416 - sqlalchemy.engine.Engine - INFO - SELECT pg_catalog.pg_class.relname 
+FROM pg_catalog.pg_class JOIN pg_catalog.pg_namespace ON pg_catalog.pg_namespace.oid = pg_catalog.pg_class.relnamespace 
+WHERE pg_catalog.pg_class.relname = $1::VARCHAR AND pg_catalog.pg_class.relkind = ANY (ARRAY[$2::VARCHAR, $3::VARCHAR, $4::VARCHAR, $5::VARCHAR, $6::VARCHAR]) AND pg_catalog.pg_table_is_visible(pg_catalog.pg_class.oid) AND pg_catalog.pg_namespace.nspname != $7::VARCHAR
+2024-04-14 07:30:02,417 - sqlalchemy.engine.Engine - INFO - [cached since 0.2827s ago] ('ticket_photos', 'r', 'p', 'f', 'v', 'm', 'pg_catalog')
+2024-04-14 07:30:02,472 - sqlalchemy.engine.Engine - INFO - SELECT pg_catalog.pg_type.typname 
+FROM pg_catalog.pg_type JOIN pg_catalog.pg_namespace ON pg_catalog.pg_namespace.oid = pg_catalog.pg_type.typnamespace 
+WHERE pg_catalog.pg_type.typname = $1::VARCHAR AND pg_catalog.pg_type_is_visible(pg_catalog.pg_type.oid) AND pg_catalog.pg_namespace.nspname != $2::VARCHAR
+2024-04-14 07:30:02,473 - sqlalchemy.engine.Engine - INFO - [generated in 0.00138s] ('manageroles', 'pg_catalog')
+2024-04-14 07:30:02,562 - sqlalchemy.engine.Engine - INFO - SELECT pg_catalog.pg_type.typname 
+FROM pg_catalog.pg_type JOIN pg_catalog.pg_namespace ON pg_catalog.pg_namespace.oid = pg_catalog.pg_type.typnamespace 
+WHERE pg_catalog.pg_type.typname = $1::VARCHAR AND pg_catalog.pg_type_is_visible(pg_catalog.pg_type.oid) AND pg_catalog.pg_namespace.nspname != $2::VARCHAR
+2024-04-14 07:30:02,562 - sqlalchemy.engine.Engine - INFO - [cached since 0.09034s ago] ('ticketstatus', 'pg_catalog')
+2024-04-14 07:30:02,603 - sqlalchemy.engine.Engine - INFO - SELECT pg_catalog.pg_type.typname 
+FROM pg_catalog.pg_type JOIN pg_catalog.pg_namespace ON pg_catalog.pg_namespace.oid = pg_catalog.pg_type.typnamespace 
+WHERE pg_catalog.pg_type.typname = $1::VARCHAR AND pg_catalog.pg_type_is_visible(pg_catalog.pg_type.oid) AND pg_catalog.pg_namespace.nspname != $2::VARCHAR
+2024-04-14 07:30:02,603 - sqlalchemy.engine.Engine - INFO - [cached since 0.1321s ago] ('phototype', 'pg_catalog')
+2024-04-14 07:30:02,647 - sqlalchemy.engine.Engine - INFO - COMMIT
+2024-04-14 07:30:37,525 - sqlalchemy.engine.Engine - INFO - select pg_catalog.version()
+2024-04-14 07:30:37,526 - sqlalchemy.engine.Engine - INFO - [raw sql] ()
+2024-04-14 07:30:37,711 - sqlalchemy.engine.Engine - INFO - select current_schema()
+2024-04-14 07:30:37,712 - sqlalchemy.engine.Engine - INFO - [raw sql] ()
+2024-04-14 07:30:37,915 - sqlalchemy.engine.Engine - INFO - show standard_conforming_strings
+2024-04-14 07:30:37,915 - sqlalchemy.engine.Engine - INFO - [raw sql] ()
+2024-04-14 07:30:38,078 - sqlalchemy.engine.Engine - INFO - BEGIN (implicit)
+2024-04-14 07:30:38,083 - sqlalchemy.engine.Engine - INFO - SELECT pg_catalog.pg_class.relname 
+FROM pg_catalog.pg_class JOIN pg_catalog.pg_namespace ON pg_catalog.pg_namespace.oid = pg_catalog.pg_class.relnamespace 
+WHERE pg_catalog.pg_class.relname = $1::VARCHAR AND pg_catalog.pg_class.relkind = ANY (ARRAY[$2::VARCHAR, $3::VARCHAR, $4::VARCHAR, $5::VARCHAR, $6::VARCHAR]) AND pg_catalog.pg_table_is_visible(pg_catalog.pg_class.oid) AND pg_catalog.pg_namespace.nspname != $7::VARCHAR
+2024-04-14 07:30:38,083 - sqlalchemy.engine.Engine - INFO - [generated in 0.00071s] ('managers', 'r', 'p', 'f', 'v', 'm', 'pg_catalog')
+2024-04-14 07:30:38,242 - sqlalchemy.engine.Engine - INFO - SELECT pg_catalog.pg_class.relname 
+FROM pg_catalog.pg_class JOIN pg_catalog.pg_namespace ON pg_catalog.pg_namespace.oid = pg_catalog.pg_class.relnamespace 
+WHERE pg_catalog.pg_class.relname = $1::VARCHAR AND pg_catalog.pg_class.relkind = ANY (ARRAY[$2::VARCHAR, $3::VARCHAR, $4::VARCHAR, $5::VARCHAR, $6::VARCHAR]) AND pg_catalog.pg_table_is_visible(pg_catalog.pg_class.oid) AND pg_catalog.pg_namespace.nspname != $7::VARCHAR
+2024-04-14 07:30:38,243 - sqlalchemy.engine.Engine - INFO - [cached since 0.1602s ago] ('tickets', 'r', 'p', 'f', 'v', 'm', 'pg_catalog')
+2024-04-14 07:30:38,306 - sqlalchemy.engine.Engine - INFO - SELECT pg_catalog.pg_class.relname 
+FROM pg_catalog.pg_class JOIN pg_catalog.pg_namespace ON pg_catalog.pg_namespace.oid = pg_catalog.pg_class.relnamespace 
+WHERE pg_catalog.pg_class.relname = $1::VARCHAR AND pg_catalog.pg_class.relkind = ANY (ARRAY[$2::VARCHAR, $3::VARCHAR, $4::VARCHAR, $5::VARCHAR, $6::VARCHAR]) AND pg_catalog.pg_table_is_visible(pg_catalog.pg_class.oid) AND pg_catalog.pg_namespace.nspname != $7::VARCHAR
+2024-04-14 07:30:38,307 - sqlalchemy.engine.Engine - INFO - [cached since 0.2247s ago] ('executors_tickets', 'r', 'p', 'f', 'v', 'm', 'pg_catalog')
+2024-04-14 07:30:38,355 - sqlalchemy.engine.Engine - INFO - SELECT pg_catalog.pg_class.relname 
+FROM pg_catalog.pg_class JOIN pg_catalog.pg_namespace ON pg_catalog.pg_namespace.oid = pg_catalog.pg_class.relnamespace 
+WHERE pg_catalog.pg_class.relname = $1::VARCHAR AND pg_catalog.pg_class.relkind = ANY (ARRAY[$2::VARCHAR, $3::VARCHAR, $4::VARCHAR, $5::VARCHAR, $6::VARCHAR]) AND pg_catalog.pg_table_is_visible(pg_catalog.pg_class.oid) AND pg_catalog.pg_namespace.nspname != $7::VARCHAR
+2024-04-14 07:30:38,356 - sqlalchemy.engine.Engine - INFO - [cached since 0.2735s ago] ('users', 'r', 'p', 'f', 'v', 'm', 'pg_catalog')
+2024-04-14 07:30:38,405 - sqlalchemy.engine.Engine - INFO - SELECT pg_catalog.pg_class.relname 
+FROM pg_catalog.pg_class JOIN pg_catalog.pg_namespace ON pg_catalog.pg_namespace.oid = pg_catalog.pg_class.relnamespace 
+WHERE pg_catalog.pg_class.relname = $1::VARCHAR AND pg_catalog.pg_class.relkind = ANY (ARRAY[$2::VARCHAR, $3::VARCHAR, $4::VARCHAR, $5::VARCHAR, $6::VARCHAR]) AND pg_catalog.pg_table_is_visible(pg_catalog.pg_class.oid) AND pg_catalog.pg_namespace.nspname != $7::VARCHAR
+2024-04-14 07:30:38,406 - sqlalchemy.engine.Engine - INFO - [cached since 0.3234s ago] ('tickets_details', 'r', 'p', 'f', 'v', 'm', 'pg_catalog')
+2024-04-14 07:30:38,454 - sqlalchemy.engine.Engine - INFO - SELECT pg_catalog.pg_class.relname 
+FROM pg_catalog.pg_class JOIN pg_catalog.pg_namespace ON pg_catalog.pg_namespace.oid = pg_catalog.pg_class.relnamespace 
+WHERE pg_catalog.pg_class.relname = $1::VARCHAR AND pg_catalog.pg_class.relkind = ANY (ARRAY[$2::VARCHAR, $3::VARCHAR, $4::VARCHAR, $5::VARCHAR, $6::VARCHAR]) AND pg_catalog.pg_table_is_visible(pg_catalog.pg_class.oid) AND pg_catalog.pg_namespace.nspname != $7::VARCHAR
+2024-04-14 07:30:38,455 - sqlalchemy.engine.Engine - INFO - [cached since 0.3719s ago] ('ticket_photos', 'r', 'p', 'f', 'v', 'm', 'pg_catalog')
+2024-04-14 07:30:38,512 - sqlalchemy.engine.Engine - INFO - SELECT pg_catalog.pg_type.typname 
+FROM pg_catalog.pg_type JOIN pg_catalog.pg_namespace ON pg_catalog.pg_namespace.oid = pg_catalog.pg_type.typnamespace 
+WHERE pg_catalog.pg_type.typname = $1::VARCHAR AND pg_catalog.pg_type_is_visible(pg_catalog.pg_type.oid) AND pg_catalog.pg_namespace.nspname != $2::VARCHAR
+2024-04-14 07:30:38,513 - sqlalchemy.engine.Engine - INFO - [generated in 0.00081s] ('manageroles', 'pg_catalog')
+2024-04-14 07:30:38,618 - sqlalchemy.engine.Engine - INFO - SELECT pg_catalog.pg_type.typname 
+FROM pg_catalog.pg_type JOIN pg_catalog.pg_namespace ON pg_catalog.pg_namespace.oid = pg_catalog.pg_type.typnamespace 
+WHERE pg_catalog.pg_type.typname = $1::VARCHAR AND pg_catalog.pg_type_is_visible(pg_catalog.pg_type.oid) AND pg_catalog.pg_namespace.nspname != $2::VARCHAR
+2024-04-14 07:30:38,618 - sqlalchemy.engine.Engine - INFO - [cached since 0.1065s ago] ('ticketstatus', 'pg_catalog')
+2024-04-14 07:30:38,669 - sqlalchemy.engine.Engine - INFO - SELECT pg_catalog.pg_type.typname 
+FROM pg_catalog.pg_type JOIN pg_catalog.pg_namespace ON pg_catalog.pg_namespace.oid = pg_catalog.pg_type.typnamespace 
+WHERE pg_catalog.pg_type.typname = $1::VARCHAR AND pg_catalog.pg_type_is_visible(pg_catalog.pg_type.oid) AND pg_catalog.pg_namespace.nspname != $2::VARCHAR
+2024-04-14 07:30:38,669 - sqlalchemy.engine.Engine - INFO - [cached since 0.1577s ago] ('phototype', 'pg_catalog')
+2024-04-14 07:30:38,719 - sqlalchemy.engine.Engine - INFO - COMMIT
+2024-04-14 07:30:42,530 - sqlalchemy.engine.Engine - INFO - BEGIN (implicit)
+2024-04-14 07:30:42,534 - sqlalchemy.engine.Engine - INFO - INSERT INTO managers ("firstName", "lastName", email, phone, password, role) VALUES ($1::VARCHAR, $2::VARCHAR, $3::VARCHAR, $4::INTEGER, $5::VARCHAR, $6::manageroles) RETURNING managers.id
+2024-04-14 07:30:42,535 - sqlalchemy.engine.Engine - INFO - [generated in 0.00109s] ('Anton', 'Aglushevich', 'react@one.love', 78996754513, '$2b$12$6SObOVzs8ZKNQZl4mkt2vOaIRb.KNBmtnvkHHBedQyaPverEcRlz.', 'executor')
+2024-04-14 07:30:42,941 - sqlalchemy.engine.Engine - INFO - ROLLBACK
+2024-04-14 07:31:24,873 - sqlalchemy.engine.Engine - INFO - select pg_catalog.version()
+2024-04-14 07:31:24,873 - sqlalchemy.engine.Engine - INFO - [raw sql] ()
+2024-04-14 07:31:25,086 - sqlalchemy.engine.Engine - INFO - select current_schema()
+2024-04-14 07:31:25,087 - sqlalchemy.engine.Engine - INFO - [raw sql] ()
+2024-04-14 07:31:25,322 - sqlalchemy.engine.Engine - INFO - show standard_conforming_strings
+2024-04-14 07:31:25,323 - sqlalchemy.engine.Engine - INFO - [raw sql] ()
+2024-04-14 07:31:25,467 - sqlalchemy.engine.Engine - INFO - BEGIN (implicit)
+2024-04-14 07:31:25,472 - sqlalchemy.engine.Engine - INFO - SELECT pg_catalog.pg_class.relname 
+FROM pg_catalog.pg_class JOIN pg_catalog.pg_namespace ON pg_catalog.pg_namespace.oid = pg_catalog.pg_class.relnamespace 
+WHERE pg_catalog.pg_class.relname = $1::VARCHAR AND pg_catalog.pg_class.relkind = ANY (ARRAY[$2::VARCHAR, $3::VARCHAR, $4::VARCHAR, $5::VARCHAR, $6::VARCHAR]) AND pg_catalog.pg_table_is_visible(pg_catalog.pg_class.oid) AND pg_catalog.pg_namespace.nspname != $7::VARCHAR
+2024-04-14 07:31:25,473 - sqlalchemy.engine.Engine - INFO - [generated in 0.00073s] ('managers', 'r', 'p', 'f', 'v', 'm', 'pg_catalog')
+2024-04-14 07:31:25,616 - sqlalchemy.engine.Engine - INFO - SELECT pg_catalog.pg_class.relname 
+FROM pg_catalog.pg_class JOIN pg_catalog.pg_namespace ON pg_catalog.pg_namespace.oid = pg_catalog.pg_class.relnamespace 
+WHERE pg_catalog.pg_class.relname = $1::VARCHAR AND pg_catalog.pg_class.relkind = ANY (ARRAY[$2::VARCHAR, $3::VARCHAR, $4::VARCHAR, $5::VARCHAR, $6::VARCHAR]) AND pg_catalog.pg_table_is_visible(pg_catalog.pg_class.oid) AND pg_catalog.pg_namespace.nspname != $7::VARCHAR
+2024-04-14 07:31:25,617 - sqlalchemy.engine.Engine - INFO - [cached since 0.1446s ago] ('tickets', 'r', 'p', 'f', 'v', 'm', 'pg_catalog')
+2024-04-14 07:31:25,664 - sqlalchemy.engine.Engine - INFO - SELECT pg_catalog.pg_class.relname 
+FROM pg_catalog.pg_class JOIN pg_catalog.pg_namespace ON pg_catalog.pg_namespace.oid = pg_catalog.pg_class.relnamespace 
+WHERE pg_catalog.pg_class.relname = $1::VARCHAR AND pg_catalog.pg_class.relkind = ANY (ARRAY[$2::VARCHAR, $3::VARCHAR, $4::VARCHAR, $5::VARCHAR, $6::VARCHAR]) AND pg_catalog.pg_table_is_visible(pg_catalog.pg_class.oid) AND pg_catalog.pg_namespace.nspname != $7::VARCHAR
+2024-04-14 07:31:25,665 - sqlalchemy.engine.Engine - INFO - [cached since 0.1927s ago] ('executors_tickets', 'r', 'p', 'f', 'v', 'm', 'pg_catalog')
+2024-04-14 07:31:25,712 - sqlalchemy.engine.Engine - INFO - SELECT pg_catalog.pg_class.relname 
+FROM pg_catalog.pg_class JOIN pg_catalog.pg_namespace ON pg_catalog.pg_namespace.oid = pg_catalog.pg_class.relnamespace 
+WHERE pg_catalog.pg_class.relname = $1::VARCHAR AND pg_catalog.pg_class.relkind = ANY (ARRAY[$2::VARCHAR, $3::VARCHAR, $4::VARCHAR, $5::VARCHAR, $6::VARCHAR]) AND pg_catalog.pg_table_is_visible(pg_catalog.pg_class.oid) AND pg_catalog.pg_namespace.nspname != $7::VARCHAR
+2024-04-14 07:31:25,712 - sqlalchemy.engine.Engine - INFO - [cached since 0.2404s ago] ('users', 'r', 'p', 'f', 'v', 'm', 'pg_catalog')
+2024-04-14 07:31:25,760 - sqlalchemy.engine.Engine - INFO - SELECT pg_catalog.pg_class.relname 
+FROM pg_catalog.pg_class JOIN pg_catalog.pg_namespace ON pg_catalog.pg_namespace.oid = pg_catalog.pg_class.relnamespace 
+WHERE pg_catalog.pg_class.relname = $1::VARCHAR AND pg_catalog.pg_class.relkind = ANY (ARRAY[$2::VARCHAR, $3::VARCHAR, $4::VARCHAR, $5::VARCHAR, $6::VARCHAR]) AND pg_catalog.pg_table_is_visible(pg_catalog.pg_class.oid) AND pg_catalog.pg_namespace.nspname != $7::VARCHAR
+2024-04-14 07:31:25,760 - sqlalchemy.engine.Engine - INFO - [cached since 0.2886s ago] ('tickets_details', 'r', 'p', 'f', 'v', 'm', 'pg_catalog')
+2024-04-14 07:31:25,809 - sqlalchemy.engine.Engine - INFO - SELECT pg_catalog.pg_class.relname 
+FROM pg_catalog.pg_class JOIN pg_catalog.pg_namespace ON pg_catalog.pg_namespace.oid = pg_catalog.pg_class.relnamespace 
+WHERE pg_catalog.pg_class.relname = $1::VARCHAR AND pg_catalog.pg_class.relkind = ANY (ARRAY[$2::VARCHAR, $3::VARCHAR, $4::VARCHAR, $5::VARCHAR, $6::VARCHAR]) AND pg_catalog.pg_table_is_visible(pg_catalog.pg_class.oid) AND pg_catalog.pg_namespace.nspname != $7::VARCHAR
+2024-04-14 07:31:25,810 - sqlalchemy.engine.Engine - INFO - [cached since 0.338s ago] ('ticket_photos', 'r', 'p', 'f', 'v', 'm', 'pg_catalog')
+2024-04-14 07:31:25,863 - sqlalchemy.engine.Engine - INFO - SELECT pg_catalog.pg_type.typname 
+FROM pg_catalog.pg_type JOIN pg_catalog.pg_namespace ON pg_catalog.pg_namespace.oid = pg_catalog.pg_type.typnamespace 
+WHERE pg_catalog.pg_type.typname = $1::VARCHAR AND pg_catalog.pg_type_is_visible(pg_catalog.pg_type.oid) AND pg_catalog.pg_namespace.nspname != $2::VARCHAR
+2024-04-14 07:31:25,864 - sqlalchemy.engine.Engine - INFO - [generated in 0.00097s] ('manageroles', 'pg_catalog')
+2024-04-14 07:31:25,973 - sqlalchemy.engine.Engine - INFO - SELECT pg_catalog.pg_type.typname 
+FROM pg_catalog.pg_type JOIN pg_catalog.pg_namespace ON pg_catalog.pg_namespace.oid = pg_catalog.pg_type.typnamespace 
+WHERE pg_catalog.pg_type.typname = $1::VARCHAR AND pg_catalog.pg_type_is_visible(pg_catalog.pg_type.oid) AND pg_catalog.pg_namespace.nspname != $2::VARCHAR
+2024-04-14 07:31:25,973 - sqlalchemy.engine.Engine - INFO - [cached since 0.1114s ago] ('ticketstatus', 'pg_catalog')
+2024-04-14 07:31:26,028 - sqlalchemy.engine.Engine - INFO - SELECT pg_catalog.pg_type.typname 
+FROM pg_catalog.pg_type JOIN pg_catalog.pg_namespace ON pg_catalog.pg_namespace.oid = pg_catalog.pg_type.typnamespace 
+WHERE pg_catalog.pg_type.typname = $1::VARCHAR AND pg_catalog.pg_type_is_visible(pg_catalog.pg_type.oid) AND pg_catalog.pg_namespace.nspname != $2::VARCHAR
+2024-04-14 07:31:26,029 - sqlalchemy.engine.Engine - INFO - [cached since 0.1666s ago] ('phototype', 'pg_catalog')
+2024-04-14 07:31:26,080 - sqlalchemy.engine.Engine - INFO - COMMIT
+2024-04-14 07:31:32,597 - sqlalchemy.engine.Engine - INFO - BEGIN (implicit)
+2024-04-14 07:31:32,600 - sqlalchemy.engine.Engine - INFO - INSERT INTO managers ("firstName", "lastName", email, phone, password, role) VALUES ($1::VARCHAR, $2::VARCHAR, $3::VARCHAR, $4::BIGINT, $5::VARCHAR, $6::manageroles) RETURNING managers.id
+2024-04-14 07:31:32,600 - sqlalchemy.engine.Engine - INFO - [generated in 0.00070s] ('Anton', 'Aglushevich', 'react@one.love', 78996754513, '$2b$12$hXXPUIGzVBr6GOoktxZxtuXkGgcwAiOMzHmx3Sxcx99TJ2u0hmwE2', 'executor')
+2024-04-14 07:31:33,114 - sqlalchemy.engine.Engine - INFO - ROLLBACK
+2024-04-14 07:32:48,037 - sqlalchemy.engine.Engine - INFO - select pg_catalog.version()
+2024-04-14 07:32:48,039 - sqlalchemy.engine.Engine - INFO - [raw sql] ()
+2024-04-14 07:32:48,250 - sqlalchemy.engine.Engine - INFO - select current_schema()
+2024-04-14 07:32:48,251 - sqlalchemy.engine.Engine - INFO - [raw sql] ()
+2024-04-14 07:32:48,435 - sqlalchemy.engine.Engine - INFO - show standard_conforming_strings
+2024-04-14 07:32:48,436 - sqlalchemy.engine.Engine - INFO - [raw sql] ()
+2024-04-14 07:32:48,575 - sqlalchemy.engine.Engine - INFO - BEGIN (implicit)
+2024-04-14 07:32:48,581 - sqlalchemy.engine.Engine - INFO - SELECT pg_catalog.pg_class.relname 
+FROM pg_catalog.pg_class JOIN pg_catalog.pg_namespace ON pg_catalog.pg_namespace.oid = pg_catalog.pg_class.relnamespace 
+WHERE pg_catalog.pg_class.relname = $1::VARCHAR AND pg_catalog.pg_class.relkind = ANY (ARRAY[$2::VARCHAR, $3::VARCHAR, $4::VARCHAR, $5::VARCHAR, $6::VARCHAR]) AND pg_catalog.pg_table_is_visible(pg_catalog.pg_class.oid) AND pg_catalog.pg_namespace.nspname != $7::VARCHAR
+2024-04-14 07:32:48,581 - sqlalchemy.engine.Engine - INFO - [generated in 0.00076s] ('managers', 'r', 'p', 'f', 'v', 'm', 'pg_catalog')
+2024-04-14 07:32:48,734 - sqlalchemy.engine.Engine - INFO - SELECT pg_catalog.pg_class.relname 
+FROM pg_catalog.pg_class JOIN pg_catalog.pg_namespace ON pg_catalog.pg_namespace.oid = pg_catalog.pg_class.relnamespace 
+WHERE pg_catalog.pg_class.relname = $1::VARCHAR AND pg_catalog.pg_class.relkind = ANY (ARRAY[$2::VARCHAR, $3::VARCHAR, $4::VARCHAR, $5::VARCHAR, $6::VARCHAR]) AND pg_catalog.pg_table_is_visible(pg_catalog.pg_class.oid) AND pg_catalog.pg_namespace.nspname != $7::VARCHAR
+2024-04-14 07:32:48,734 - sqlalchemy.engine.Engine - INFO - [cached since 0.1534s ago] ('tickets', 'r', 'p', 'f', 'v', 'm', 'pg_catalog')
+2024-04-14 07:32:48,781 - sqlalchemy.engine.Engine - INFO - SELECT pg_catalog.pg_class.relname 
+FROM pg_catalog.pg_class JOIN pg_catalog.pg_namespace ON pg_catalog.pg_namespace.oid = pg_catalog.pg_class.relnamespace 
+WHERE pg_catalog.pg_class.relname = $1::VARCHAR AND pg_catalog.pg_class.relkind = ANY (ARRAY[$2::VARCHAR, $3::VARCHAR, $4::VARCHAR, $5::VARCHAR, $6::VARCHAR]) AND pg_catalog.pg_table_is_visible(pg_catalog.pg_class.oid) AND pg_catalog.pg_namespace.nspname != $7::VARCHAR
+2024-04-14 07:32:48,781 - sqlalchemy.engine.Engine - INFO - [cached since 0.2004s ago] ('executors_tickets', 'r', 'p', 'f', 'v', 'm', 'pg_catalog')
+2024-04-14 07:32:48,840 - sqlalchemy.engine.Engine - INFO - SELECT pg_catalog.pg_class.relname 
+FROM pg_catalog.pg_class JOIN pg_catalog.pg_namespace ON pg_catalog.pg_namespace.oid = pg_catalog.pg_class.relnamespace 
+WHERE pg_catalog.pg_class.relname = $1::VARCHAR AND pg_catalog.pg_class.relkind = ANY (ARRAY[$2::VARCHAR, $3::VARCHAR, $4::VARCHAR, $5::VARCHAR, $6::VARCHAR]) AND pg_catalog.pg_table_is_visible(pg_catalog.pg_class.oid) AND pg_catalog.pg_namespace.nspname != $7::VARCHAR
+2024-04-14 07:32:48,841 - sqlalchemy.engine.Engine - INFO - [cached since 0.2597s ago] ('users', 'r', 'p', 'f', 'v', 'm', 'pg_catalog')
+2024-04-14 07:32:48,888 - sqlalchemy.engine.Engine - INFO - SELECT pg_catalog.pg_class.relname 
+FROM pg_catalog.pg_class JOIN pg_catalog.pg_namespace ON pg_catalog.pg_namespace.oid = pg_catalog.pg_class.relnamespace 
+WHERE pg_catalog.pg_class.relname = $1::VARCHAR AND pg_catalog.pg_class.relkind = ANY (ARRAY[$2::VARCHAR, $3::VARCHAR, $4::VARCHAR, $5::VARCHAR, $6::VARCHAR]) AND pg_catalog.pg_table_is_visible(pg_catalog.pg_class.oid) AND pg_catalog.pg_namespace.nspname != $7::VARCHAR
+2024-04-14 07:32:48,889 - sqlalchemy.engine.Engine - INFO - [cached since 0.3076s ago] ('tickets_details', 'r', 'p', 'f', 'v', 'm', 'pg_catalog')
+2024-04-14 07:32:48,964 - sqlalchemy.engine.Engine - INFO - SELECT pg_catalog.pg_class.relname 
+FROM pg_catalog.pg_class JOIN pg_catalog.pg_namespace ON pg_catalog.pg_namespace.oid = pg_catalog.pg_class.relnamespace 
+WHERE pg_catalog.pg_class.relname = $1::VARCHAR AND pg_catalog.pg_class.relkind = ANY (ARRAY[$2::VARCHAR, $3::VARCHAR, $4::VARCHAR, $5::VARCHAR, $6::VARCHAR]) AND pg_catalog.pg_table_is_visible(pg_catalog.pg_class.oid) AND pg_catalog.pg_namespace.nspname != $7::VARCHAR
+2024-04-14 07:32:48,965 - sqlalchemy.engine.Engine - INFO - [cached since 0.3843s ago] ('ticket_photos', 'r', 'p', 'f', 'v', 'm', 'pg_catalog')
+2024-04-14 07:32:49,119 - sqlalchemy.engine.Engine - INFO - SELECT pg_catalog.pg_type.typname 
+FROM pg_catalog.pg_type JOIN pg_catalog.pg_namespace ON pg_catalog.pg_namespace.oid = pg_catalog.pg_type.typnamespace 
+WHERE pg_catalog.pg_type.typname = $1::VARCHAR AND pg_catalog.pg_type_is_visible(pg_catalog.pg_type.oid) AND pg_catalog.pg_namespace.nspname != $2::VARCHAR
+2024-04-14 07:32:49,120 - sqlalchemy.engine.Engine - INFO - [generated in 0.00064s] ('manageroles', 'pg_catalog')
+2024-04-14 07:32:49,292 - sqlalchemy.engine.Engine - INFO - SELECT pg_catalog.pg_type.typname 
+FROM pg_catalog.pg_type JOIN pg_catalog.pg_namespace ON pg_catalog.pg_namespace.oid = pg_catalog.pg_type.typnamespace 
+WHERE pg_catalog.pg_type.typname = $1::VARCHAR AND pg_catalog.pg_type_is_visible(pg_catalog.pg_type.oid) AND pg_catalog.pg_namespace.nspname != $2::VARCHAR
+2024-04-14 07:32:49,293 - sqlalchemy.engine.Engine - INFO - [cached since 0.1734s ago] ('ticketstatus', 'pg_catalog')
+2024-04-14 07:32:49,357 - sqlalchemy.engine.Engine - INFO - SELECT pg_catalog.pg_type.typname 
+FROM pg_catalog.pg_type JOIN pg_catalog.pg_namespace ON pg_catalog.pg_namespace.oid = pg_catalog.pg_type.typnamespace 
+WHERE pg_catalog.pg_type.typname = $1::VARCHAR AND pg_catalog.pg_type_is_visible(pg_catalog.pg_type.oid) AND pg_catalog.pg_namespace.nspname != $2::VARCHAR
+2024-04-14 07:32:49,358 - sqlalchemy.engine.Engine - INFO - [cached since 0.238s ago] ('phototype', 'pg_catalog')
+2024-04-14 07:32:49,408 - sqlalchemy.engine.Engine - INFO - COMMIT
+2024-04-14 07:32:58,821 - sqlalchemy.engine.Engine - INFO - BEGIN (implicit)
+2024-04-14 07:32:58,823 - sqlalchemy.engine.Engine - INFO - INSERT INTO managers ("firstName", "lastName", email, phone, password, role) VALUES ($1::VARCHAR, $2::VARCHAR, $3::VARCHAR, $4::BIGINT, $5::VARCHAR, $6::manageroles) RETURNING managers.id
+2024-04-14 07:32:58,824 - sqlalchemy.engine.Engine - INFO - [generated in 0.00134s] ('Anton', 'Aglushevich', 'react@one.love', 78996754513, '$2b$12$Tsh8ho0h00AEqPE3Bd1up.K1Yx6u6ITe0ICtfZVwt07EsK34LdpjW', 'executor')
+2024-04-14 07:32:59,270 - sqlalchemy.engine.Engine - INFO - COMMIT
+2024-04-14 07:32:59,318 - sqlalchemy.engine.Engine - INFO - BEGIN (implicit)
+2024-04-14 07:32:59,321 - sqlalchemy.engine.Engine - INFO - SELECT managers.id AS managers_id, managers."firstName" AS "managers_firstName", managers."lastName" AS "managers_lastName", managers.email AS managers_email, managers.phone AS managers_phone, managers.password AS managers_password, managers.role AS managers_role 
+FROM managers 
+WHERE managers.id = $1::BIGINT
+2024-04-14 07:32:59,321 - sqlalchemy.engine.Engine - INFO - [generated in 0.00057s] (2,)
+2024-04-14 07:32:59,322 - sqlalchemy.engine.Engine - INFO - ROLLBACK
+2024-04-14 07:35:14,286 - sqlalchemy.engine.Engine - INFO - select pg_catalog.version()
+2024-04-14 07:35:14,287 - sqlalchemy.engine.Engine - INFO - [raw sql] ()
+2024-04-14 07:35:14,440 - sqlalchemy.engine.Engine - INFO - select current_schema()
+2024-04-14 07:35:14,441 - sqlalchemy.engine.Engine - INFO - [raw sql] ()
+2024-04-14 07:35:14,620 - sqlalchemy.engine.Engine - INFO - show standard_conforming_strings
+2024-04-14 07:35:14,621 - sqlalchemy.engine.Engine - INFO - [raw sql] ()
+2024-04-14 07:35:14,736 - sqlalchemy.engine.Engine - INFO - BEGIN (implicit)
+2024-04-14 07:35:14,742 - sqlalchemy.engine.Engine - INFO - SELECT pg_catalog.pg_class.relname 
+FROM pg_catalog.pg_class JOIN pg_catalog.pg_namespace ON pg_catalog.pg_namespace.oid = pg_catalog.pg_class.relnamespace 
+WHERE pg_catalog.pg_class.relname = $1::VARCHAR AND pg_catalog.pg_class.relkind = ANY (ARRAY[$2::VARCHAR, $3::VARCHAR, $4::VARCHAR, $5::VARCHAR, $6::VARCHAR]) AND pg_catalog.pg_table_is_visible(pg_catalog.pg_class.oid) AND pg_catalog.pg_namespace.nspname != $7::VARCHAR
+2024-04-14 07:35:14,742 - sqlalchemy.engine.Engine - INFO - [generated in 0.00083s] ('managers', 'r', 'p', 'f', 'v', 'm', 'pg_catalog')
+2024-04-14 07:35:14,870 - sqlalchemy.engine.Engine - INFO - SELECT pg_catalog.pg_class.relname 
+FROM pg_catalog.pg_class JOIN pg_catalog.pg_namespace ON pg_catalog.pg_namespace.oid = pg_catalog.pg_class.relnamespace 
+WHERE pg_catalog.pg_class.relname = $1::VARCHAR AND pg_catalog.pg_class.relkind = ANY (ARRAY[$2::VARCHAR, $3::VARCHAR, $4::VARCHAR, $5::VARCHAR, $6::VARCHAR]) AND pg_catalog.pg_table_is_visible(pg_catalog.pg_class.oid) AND pg_catalog.pg_namespace.nspname != $7::VARCHAR
+2024-04-14 07:35:14,871 - sqlalchemy.engine.Engine - INFO - [cached since 0.1297s ago] ('tickets', 'r', 'p', 'f', 'v', 'm', 'pg_catalog')
+2024-04-14 07:35:14,912 - sqlalchemy.engine.Engine - INFO - SELECT pg_catalog.pg_class.relname 
+FROM pg_catalog.pg_class JOIN pg_catalog.pg_namespace ON pg_catalog.pg_namespace.oid = pg_catalog.pg_class.relnamespace 
+WHERE pg_catalog.pg_class.relname = $1::VARCHAR AND pg_catalog.pg_class.relkind = ANY (ARRAY[$2::VARCHAR, $3::VARCHAR, $4::VARCHAR, $5::VARCHAR, $6::VARCHAR]) AND pg_catalog.pg_table_is_visible(pg_catalog.pg_class.oid) AND pg_catalog.pg_namespace.nspname != $7::VARCHAR
+2024-04-14 07:35:14,913 - sqlalchemy.engine.Engine - INFO - [cached since 0.1708s ago] ('executors_tickets', 'r', 'p', 'f', 'v', 'm', 'pg_catalog')
+2024-04-14 07:35:14,952 - sqlalchemy.engine.Engine - INFO - SELECT pg_catalog.pg_class.relname 
+FROM pg_catalog.pg_class JOIN pg_catalog.pg_namespace ON pg_catalog.pg_namespace.oid = pg_catalog.pg_class.relnamespace 
+WHERE pg_catalog.pg_class.relname = $1::VARCHAR AND pg_catalog.pg_class.relkind = ANY (ARRAY[$2::VARCHAR, $3::VARCHAR, $4::VARCHAR, $5::VARCHAR, $6::VARCHAR]) AND pg_catalog.pg_table_is_visible(pg_catalog.pg_class.oid) AND pg_catalog.pg_namespace.nspname != $7::VARCHAR
+2024-04-14 07:35:14,953 - sqlalchemy.engine.Engine - INFO - [cached since 0.2111s ago] ('users', 'r', 'p', 'f', 'v', 'm', 'pg_catalog')
+2024-04-14 07:35:14,992 - sqlalchemy.engine.Engine - INFO - SELECT pg_catalog.pg_class.relname 
+FROM pg_catalog.pg_class JOIN pg_catalog.pg_namespace ON pg_catalog.pg_namespace.oid = pg_catalog.pg_class.relnamespace 
+WHERE pg_catalog.pg_class.relname = $1::VARCHAR AND pg_catalog.pg_class.relkind = ANY (ARRAY[$2::VARCHAR, $3::VARCHAR, $4::VARCHAR, $5::VARCHAR, $6::VARCHAR]) AND pg_catalog.pg_table_is_visible(pg_catalog.pg_class.oid) AND pg_catalog.pg_namespace.nspname != $7::VARCHAR
+2024-04-14 07:35:14,993 - sqlalchemy.engine.Engine - INFO - [cached since 0.251s ago] ('tickets_details', 'r', 'p', 'f', 'v', 'm', 'pg_catalog')
+2024-04-14 07:35:15,032 - sqlalchemy.engine.Engine - INFO - SELECT pg_catalog.pg_class.relname 
+FROM pg_catalog.pg_class JOIN pg_catalog.pg_namespace ON pg_catalog.pg_namespace.oid = pg_catalog.pg_class.relnamespace 
+WHERE pg_catalog.pg_class.relname = $1::VARCHAR AND pg_catalog.pg_class.relkind = ANY (ARRAY[$2::VARCHAR, $3::VARCHAR, $4::VARCHAR, $5::VARCHAR, $6::VARCHAR]) AND pg_catalog.pg_table_is_visible(pg_catalog.pg_class.oid) AND pg_catalog.pg_namespace.nspname != $7::VARCHAR
+2024-04-14 07:35:15,033 - sqlalchemy.engine.Engine - INFO - [cached since 0.2916s ago] ('ticket_photos', 'r', 'p', 'f', 'v', 'm', 'pg_catalog')
+2024-04-14 07:35:15,081 - sqlalchemy.engine.Engine - INFO - SELECT pg_catalog.pg_type.typname 
+FROM pg_catalog.pg_type JOIN pg_catalog.pg_namespace ON pg_catalog.pg_namespace.oid = pg_catalog.pg_type.typnamespace 
+WHERE pg_catalog.pg_type.typname = $1::VARCHAR AND pg_catalog.pg_type_is_visible(pg_catalog.pg_type.oid) AND pg_catalog.pg_namespace.nspname != $2::VARCHAR
+2024-04-14 07:35:15,082 - sqlalchemy.engine.Engine - INFO - [generated in 0.00119s] ('manageroles', 'pg_catalog')
+2024-04-14 07:35:15,161 - sqlalchemy.engine.Engine - INFO - SELECT pg_catalog.pg_type.typname 
+FROM pg_catalog.pg_type JOIN pg_catalog.pg_namespace ON pg_catalog.pg_namespace.oid = pg_catalog.pg_type.typnamespace 
+WHERE pg_catalog.pg_type.typname = $1::VARCHAR AND pg_catalog.pg_type_is_visible(pg_catalog.pg_type.oid) AND pg_catalog.pg_namespace.nspname != $2::VARCHAR
+2024-04-14 07:35:15,163 - sqlalchemy.engine.Engine - INFO - [cached since 0.08126s ago] ('ticketstatus', 'pg_catalog')
+2024-04-14 07:35:15,228 - sqlalchemy.engine.Engine - INFO - SELECT pg_catalog.pg_type.typname 
+FROM pg_catalog.pg_type JOIN pg_catalog.pg_namespace ON pg_catalog.pg_namespace.oid = pg_catalog.pg_type.typnamespace 
+WHERE pg_catalog.pg_type.typname = $1::VARCHAR AND pg_catalog.pg_type_is_visible(pg_catalog.pg_type.oid) AND pg_catalog.pg_namespace.nspname != $2::VARCHAR
+2024-04-14 07:35:15,229 - sqlalchemy.engine.Engine - INFO - [cached since 0.1481s ago] ('phototype', 'pg_catalog')
+2024-04-14 07:35:15,273 - sqlalchemy.engine.Engine - INFO - COMMIT
+2024-04-14 07:35:18,825 - sqlalchemy.engine.Engine - INFO - BEGIN (implicit)
+2024-04-14 07:35:18,828 - sqlalchemy.engine.Engine - INFO - INSERT INTO managers ("firstName", "lastName", email, phone, password, role) VALUES ($1::VARCHAR, $2::VARCHAR, $3::VARCHAR, $4::BIGINT, $5::VARCHAR, $6::manageroles) RETURNING managers.id
+2024-04-14 07:35:18,829 - sqlalchemy.engine.Engine - INFO - [generated in 0.00134s] ('Anton', 'Aglushevich', 'react@one.love', 78996754513, '$2b$12$0INsE8kFpJ5hx6/45Pbav.LGSF4N27nipf4W/saxAxzfEPqFhtL2O', 'executor')
+2024-04-14 07:35:19,219 - sqlalchemy.engine.Engine - INFO - ROLLBACK
+2024-04-14 07:36:34,624 - sqlalchemy.engine.Engine - INFO - select pg_catalog.version()
+2024-04-14 07:36:34,625 - sqlalchemy.engine.Engine - INFO - [raw sql] ()
+2024-04-14 07:36:34,819 - sqlalchemy.engine.Engine - INFO - select current_schema()
+2024-04-14 07:36:34,820 - sqlalchemy.engine.Engine - INFO - [raw sql] ()
+2024-04-14 07:36:34,998 - sqlalchemy.engine.Engine - INFO - show standard_conforming_strings
+2024-04-14 07:36:34,999 - sqlalchemy.engine.Engine - INFO - [raw sql] ()
+2024-04-14 07:36:35,173 - sqlalchemy.engine.Engine - INFO - BEGIN (implicit)
+2024-04-14 07:36:35,178 - sqlalchemy.engine.Engine - INFO - SELECT pg_catalog.pg_class.relname 
+FROM pg_catalog.pg_class JOIN pg_catalog.pg_namespace ON pg_catalog.pg_namespace.oid = pg_catalog.pg_class.relnamespace 
+WHERE pg_catalog.pg_class.relname = $1::VARCHAR AND pg_catalog.pg_class.relkind = ANY (ARRAY[$2::VARCHAR, $3::VARCHAR, $4::VARCHAR, $5::VARCHAR, $6::VARCHAR]) AND pg_catalog.pg_table_is_visible(pg_catalog.pg_class.oid) AND pg_catalog.pg_namespace.nspname != $7::VARCHAR
+2024-04-14 07:36:35,179 - sqlalchemy.engine.Engine - INFO - [generated in 0.00077s] ('managers', 'r', 'p', 'f', 'v', 'm', 'pg_catalog')
+2024-04-14 07:36:35,333 - sqlalchemy.engine.Engine - INFO - SELECT pg_catalog.pg_class.relname 
+FROM pg_catalog.pg_class JOIN pg_catalog.pg_namespace ON pg_catalog.pg_namespace.oid = pg_catalog.pg_class.relnamespace 
+WHERE pg_catalog.pg_class.relname = $1::VARCHAR AND pg_catalog.pg_class.relkind = ANY (ARRAY[$2::VARCHAR, $3::VARCHAR, $4::VARCHAR, $5::VARCHAR, $6::VARCHAR]) AND pg_catalog.pg_table_is_visible(pg_catalog.pg_class.oid) AND pg_catalog.pg_namespace.nspname != $7::VARCHAR
+2024-04-14 07:36:35,333 - sqlalchemy.engine.Engine - INFO - [cached since 0.1549s ago] ('tickets', 'r', 'p', 'f', 'v', 'm', 'pg_catalog')
+2024-04-14 07:36:35,380 - sqlalchemy.engine.Engine - INFO - SELECT pg_catalog.pg_class.relname 
+FROM pg_catalog.pg_class JOIN pg_catalog.pg_namespace ON pg_catalog.pg_namespace.oid = pg_catalog.pg_class.relnamespace 
+WHERE pg_catalog.pg_class.relname = $1::VARCHAR AND pg_catalog.pg_class.relkind = ANY (ARRAY[$2::VARCHAR, $3::VARCHAR, $4::VARCHAR, $5::VARCHAR, $6::VARCHAR]) AND pg_catalog.pg_table_is_visible(pg_catalog.pg_class.oid) AND pg_catalog.pg_namespace.nspname != $7::VARCHAR
+2024-04-14 07:36:35,381 - sqlalchemy.engine.Engine - INFO - [cached since 0.2029s ago] ('executors_tickets', 'r', 'p', 'f', 'v', 'm', 'pg_catalog')
+2024-04-14 07:36:35,427 - sqlalchemy.engine.Engine - INFO - SELECT pg_catalog.pg_class.relname 
+FROM pg_catalog.pg_class JOIN pg_catalog.pg_namespace ON pg_catalog.pg_namespace.oid = pg_catalog.pg_class.relnamespace 
+WHERE pg_catalog.pg_class.relname = $1::VARCHAR AND pg_catalog.pg_class.relkind = ANY (ARRAY[$2::VARCHAR, $3::VARCHAR, $4::VARCHAR, $5::VARCHAR, $6::VARCHAR]) AND pg_catalog.pg_table_is_visible(pg_catalog.pg_class.oid) AND pg_catalog.pg_namespace.nspname != $7::VARCHAR
+2024-04-14 07:36:35,427 - sqlalchemy.engine.Engine - INFO - [cached since 0.2489s ago] ('users', 'r', 'p', 'f', 'v', 'm', 'pg_catalog')
+2024-04-14 07:36:35,472 - sqlalchemy.engine.Engine - INFO - SELECT pg_catalog.pg_class.relname 
+FROM pg_catalog.pg_class JOIN pg_catalog.pg_namespace ON pg_catalog.pg_namespace.oid = pg_catalog.pg_class.relnamespace 
+WHERE pg_catalog.pg_class.relname = $1::VARCHAR AND pg_catalog.pg_class.relkind = ANY (ARRAY[$2::VARCHAR, $3::VARCHAR, $4::VARCHAR, $5::VARCHAR, $6::VARCHAR]) AND pg_catalog.pg_table_is_visible(pg_catalog.pg_class.oid) AND pg_catalog.pg_namespace.nspname != $7::VARCHAR
+2024-04-14 07:36:35,473 - sqlalchemy.engine.Engine - INFO - [cached since 0.295s ago] ('tickets_details', 'r', 'p', 'f', 'v', 'm', 'pg_catalog')
+2024-04-14 07:36:35,523 - sqlalchemy.engine.Engine - INFO - SELECT pg_catalog.pg_class.relname 
+FROM pg_catalog.pg_class JOIN pg_catalog.pg_namespace ON pg_catalog.pg_namespace.oid = pg_catalog.pg_class.relnamespace 
+WHERE pg_catalog.pg_class.relname = $1::VARCHAR AND pg_catalog.pg_class.relkind = ANY (ARRAY[$2::VARCHAR, $3::VARCHAR, $4::VARCHAR, $5::VARCHAR, $6::VARCHAR]) AND pg_catalog.pg_table_is_visible(pg_catalog.pg_class.oid) AND pg_catalog.pg_namespace.nspname != $7::VARCHAR
+2024-04-14 07:36:35,524 - sqlalchemy.engine.Engine - INFO - [cached since 0.3459s ago] ('ticket_photos', 'r', 'p', 'f', 'v', 'm', 'pg_catalog')
+2024-04-14 07:36:35,573 - sqlalchemy.engine.Engine - INFO - SELECT pg_catalog.pg_type.typname 
+FROM pg_catalog.pg_type JOIN pg_catalog.pg_namespace ON pg_catalog.pg_namespace.oid = pg_catalog.pg_type.typnamespace 
+WHERE pg_catalog.pg_type.typname = $1::VARCHAR AND pg_catalog.pg_type_is_visible(pg_catalog.pg_type.oid) AND pg_catalog.pg_namespace.nspname != $2::VARCHAR
+2024-04-14 07:36:35,574 - sqlalchemy.engine.Engine - INFO - [generated in 0.00080s] ('manageroles', 'pg_catalog')
+2024-04-14 07:36:35,668 - sqlalchemy.engine.Engine - INFO - SELECT pg_catalog.pg_type.typname 
+FROM pg_catalog.pg_type JOIN pg_catalog.pg_namespace ON pg_catalog.pg_namespace.oid = pg_catalog.pg_type.typnamespace 
+WHERE pg_catalog.pg_type.typname = $1::VARCHAR AND pg_catalog.pg_type_is_visible(pg_catalog.pg_type.oid) AND pg_catalog.pg_namespace.nspname != $2::VARCHAR
+2024-04-14 07:36:35,669 - sqlalchemy.engine.Engine - INFO - [cached since 0.09545s ago] ('ticketstatus', 'pg_catalog')
+2024-04-14 07:36:35,715 - sqlalchemy.engine.Engine - INFO - SELECT pg_catalog.pg_type.typname 
+FROM pg_catalog.pg_type JOIN pg_catalog.pg_namespace ON pg_catalog.pg_namespace.oid = pg_catalog.pg_type.typnamespace 
+WHERE pg_catalog.pg_type.typname = $1::VARCHAR AND pg_catalog.pg_type_is_visible(pg_catalog.pg_type.oid) AND pg_catalog.pg_namespace.nspname != $2::VARCHAR
+2024-04-14 07:36:35,716 - sqlalchemy.engine.Engine - INFO - [cached since 0.1426s ago] ('phototype', 'pg_catalog')
+2024-04-14 07:36:35,777 - sqlalchemy.engine.Engine - INFO - COMMIT
+2024-04-14 07:36:40,678 - sqlalchemy.engine.Engine - INFO - BEGIN (implicit)
+2024-04-14 07:36:40,680 - sqlalchemy.engine.Engine - INFO - INSERT INTO managers ("firstName", "lastName", email, phone, password, role) VALUES ($1::VARCHAR, $2::VARCHAR, $3::VARCHAR, $4::BIGINT, $5::VARCHAR, $6::manageroles) RETURNING managers.id
+2024-04-14 07:36:40,681 - sqlalchemy.engine.Engine - INFO - [generated in 0.00078s] ('Anton', 'Aglushevich', 'react@one.love', 78996754513, '$2b$12$nzWbmXg50S47vywVg19NmO2rQKv7lyWQqkmeRKIeGVEI1Sa0jxrci', 'executor')
+2024-04-14 07:36:41,115 - sqlalchemy.engine.Engine - INFO - ROLLBACK
+2024-04-14 07:37:14,654 - sqlalchemy.engine.Engine - INFO - select pg_catalog.version()
+2024-04-14 07:37:14,655 - sqlalchemy.engine.Engine - INFO - [raw sql] ()
+2024-04-14 07:37:14,801 - sqlalchemy.engine.Engine - INFO - select current_schema()
+2024-04-14 07:37:14,802 - sqlalchemy.engine.Engine - INFO - [raw sql] ()
+2024-04-14 07:37:14,950 - sqlalchemy.engine.Engine - INFO - show standard_conforming_strings
+2024-04-14 07:37:14,951 - sqlalchemy.engine.Engine - INFO - [raw sql] ()
+2024-04-14 07:37:15,062 - sqlalchemy.engine.Engine - INFO - BEGIN (implicit)
+2024-04-14 07:37:15,067 - sqlalchemy.engine.Engine - INFO - SELECT pg_catalog.pg_class.relname 
+FROM pg_catalog.pg_class JOIN pg_catalog.pg_namespace ON pg_catalog.pg_namespace.oid = pg_catalog.pg_class.relnamespace 
+WHERE pg_catalog.pg_class.relname = $1::VARCHAR AND pg_catalog.pg_class.relkind = ANY (ARRAY[$2::VARCHAR, $3::VARCHAR, $4::VARCHAR, $5::VARCHAR, $6::VARCHAR]) AND pg_catalog.pg_table_is_visible(pg_catalog.pg_class.oid) AND pg_catalog.pg_namespace.nspname != $7::VARCHAR
+2024-04-14 07:37:15,067 - sqlalchemy.engine.Engine - INFO - [generated in 0.00063s] ('managers', 'r', 'p', 'f', 'v', 'm', 'pg_catalog')
+2024-04-14 07:37:15,210 - sqlalchemy.engine.Engine - INFO - SELECT pg_catalog.pg_class.relname 
+FROM pg_catalog.pg_class JOIN pg_catalog.pg_namespace ON pg_catalog.pg_namespace.oid = pg_catalog.pg_class.relnamespace 
+WHERE pg_catalog.pg_class.relname = $1::VARCHAR AND pg_catalog.pg_class.relkind = ANY (ARRAY[$2::VARCHAR, $3::VARCHAR, $4::VARCHAR, $5::VARCHAR, $6::VARCHAR]) AND pg_catalog.pg_table_is_visible(pg_catalog.pg_class.oid) AND pg_catalog.pg_namespace.nspname != $7::VARCHAR
+2024-04-14 07:37:15,211 - sqlalchemy.engine.Engine - INFO - [cached since 0.1443s ago] ('tickets', 'r', 'p', 'f', 'v', 'm', 'pg_catalog')
+2024-04-14 07:37:15,255 - sqlalchemy.engine.Engine - INFO - SELECT pg_catalog.pg_class.relname 
+FROM pg_catalog.pg_class JOIN pg_catalog.pg_namespace ON pg_catalog.pg_namespace.oid = pg_catalog.pg_class.relnamespace 
+WHERE pg_catalog.pg_class.relname = $1::VARCHAR AND pg_catalog.pg_class.relkind = ANY (ARRAY[$2::VARCHAR, $3::VARCHAR, $4::VARCHAR, $5::VARCHAR, $6::VARCHAR]) AND pg_catalog.pg_table_is_visible(pg_catalog.pg_class.oid) AND pg_catalog.pg_namespace.nspname != $7::VARCHAR
+2024-04-14 07:37:15,256 - sqlalchemy.engine.Engine - INFO - [cached since 0.1891s ago] ('executors_tickets', 'r', 'p', 'f', 'v', 'm', 'pg_catalog')
+2024-04-14 07:37:15,294 - sqlalchemy.engine.Engine - INFO - SELECT pg_catalog.pg_class.relname 
+FROM pg_catalog.pg_class JOIN pg_catalog.pg_namespace ON pg_catalog.pg_namespace.oid = pg_catalog.pg_class.relnamespace 
+WHERE pg_catalog.pg_class.relname = $1::VARCHAR AND pg_catalog.pg_class.relkind = ANY (ARRAY[$2::VARCHAR, $3::VARCHAR, $4::VARCHAR, $5::VARCHAR, $6::VARCHAR]) AND pg_catalog.pg_table_is_visible(pg_catalog.pg_class.oid) AND pg_catalog.pg_namespace.nspname != $7::VARCHAR
+2024-04-14 07:37:15,294 - sqlalchemy.engine.Engine - INFO - [cached since 0.2275s ago] ('users', 'r', 'p', 'f', 'v', 'm', 'pg_catalog')
+2024-04-14 07:37:15,331 - sqlalchemy.engine.Engine - INFO - SELECT pg_catalog.pg_class.relname 
+FROM pg_catalog.pg_class JOIN pg_catalog.pg_namespace ON pg_catalog.pg_namespace.oid = pg_catalog.pg_class.relnamespace 
+WHERE pg_catalog.pg_class.relname = $1::VARCHAR AND pg_catalog.pg_class.relkind = ANY (ARRAY[$2::VARCHAR, $3::VARCHAR, $4::VARCHAR, $5::VARCHAR, $6::VARCHAR]) AND pg_catalog.pg_table_is_visible(pg_catalog.pg_class.oid) AND pg_catalog.pg_namespace.nspname != $7::VARCHAR
+2024-04-14 07:37:15,331 - sqlalchemy.engine.Engine - INFO - [cached since 0.2655s ago] ('tickets_details', 'r', 'p', 'f', 'v', 'm', 'pg_catalog')
+2024-04-14 07:37:15,369 - sqlalchemy.engine.Engine - INFO - SELECT pg_catalog.pg_class.relname 
+FROM pg_catalog.pg_class JOIN pg_catalog.pg_namespace ON pg_catalog.pg_namespace.oid = pg_catalog.pg_class.relnamespace 
+WHERE pg_catalog.pg_class.relname = $1::VARCHAR AND pg_catalog.pg_class.relkind = ANY (ARRAY[$2::VARCHAR, $3::VARCHAR, $4::VARCHAR, $5::VARCHAR, $6::VARCHAR]) AND pg_catalog.pg_table_is_visible(pg_catalog.pg_class.oid) AND pg_catalog.pg_namespace.nspname != $7::VARCHAR
+2024-04-14 07:37:15,370 - sqlalchemy.engine.Engine - INFO - [cached since 0.3036s ago] ('ticket_photos', 'r', 'p', 'f', 'v', 'm', 'pg_catalog')
+2024-04-14 07:37:15,411 - sqlalchemy.engine.Engine - INFO - SELECT pg_catalog.pg_type.typname 
+FROM pg_catalog.pg_type JOIN pg_catalog.pg_namespace ON pg_catalog.pg_namespace.oid = pg_catalog.pg_type.typnamespace 
+WHERE pg_catalog.pg_type.typname = $1::VARCHAR AND pg_catalog.pg_type_is_visible(pg_catalog.pg_type.oid) AND pg_catalog.pg_namespace.nspname != $2::VARCHAR
+2024-04-14 07:37:15,411 - sqlalchemy.engine.Engine - INFO - [generated in 0.00073s] ('manageroles', 'pg_catalog')
+2024-04-14 07:37:15,499 - sqlalchemy.engine.Engine - INFO - SELECT pg_catalog.pg_type.typname 
+FROM pg_catalog.pg_type JOIN pg_catalog.pg_namespace ON pg_catalog.pg_namespace.oid = pg_catalog.pg_type.typnamespace 
+WHERE pg_catalog.pg_type.typname = $1::VARCHAR AND pg_catalog.pg_type_is_visible(pg_catalog.pg_type.oid) AND pg_catalog.pg_namespace.nspname != $2::VARCHAR
+2024-04-14 07:37:15,500 - sqlalchemy.engine.Engine - INFO - [cached since 0.08872s ago] ('ticketstatus', 'pg_catalog')
+2024-04-14 07:37:15,538 - sqlalchemy.engine.Engine - INFO - SELECT pg_catalog.pg_type.typname 
+FROM pg_catalog.pg_type JOIN pg_catalog.pg_namespace ON pg_catalog.pg_namespace.oid = pg_catalog.pg_type.typnamespace 
+WHERE pg_catalog.pg_type.typname = $1::VARCHAR AND pg_catalog.pg_type_is_visible(pg_catalog.pg_type.oid) AND pg_catalog.pg_namespace.nspname != $2::VARCHAR
+2024-04-14 07:37:15,539 - sqlalchemy.engine.Engine - INFO - [cached since 0.1282s ago] ('phototype', 'pg_catalog')
+2024-04-14 07:37:15,576 - sqlalchemy.engine.Engine - INFO - COMMIT
+2024-04-14 07:37:19,315 - sqlalchemy.engine.Engine - INFO - BEGIN (implicit)
+2024-04-14 07:37:19,315 - sqlalchemy.engine.Engine - INFO - INSERT INTO managers ("firstName", "lastName", email, phone, password, role) VALUES ($1::VARCHAR, $2::VARCHAR, $3::VARCHAR, $4::BIGINT, $5::VARCHAR, $6::manageroles) RETURNING managers.id
+2024-04-14 07:37:19,315 - sqlalchemy.engine.Engine - INFO - [generated in 0.00060s] ('Anton', 'Aglushevich', 'react@one.love', 78996754513, '$2b$12$iqQHkRsC4/pnSL5.c.lHMOG/rREluRyF48DG7SreOianvVc8v2e4i', 'executor')
+2024-04-14 07:37:19,713 - sqlalchemy.engine.Engine - INFO - ROLLBACK
+2024-04-14 08:35:10,716 - sqlalchemy.engine.Engine - INFO - select pg_catalog.version()
+2024-04-14 08:35:10,721 - sqlalchemy.engine.Engine - INFO - [raw sql] ()
+2024-04-14 08:35:10,885 - sqlalchemy.engine.Engine - INFO - select current_schema()
+2024-04-14 08:35:10,885 - sqlalchemy.engine.Engine - INFO - [raw sql] ()
+2024-04-14 08:35:11,040 - sqlalchemy.engine.Engine - INFO - show standard_conforming_strings
+2024-04-14 08:35:11,041 - sqlalchemy.engine.Engine - INFO - [raw sql] ()
+2024-04-14 08:35:11,159 - sqlalchemy.engine.Engine - INFO - BEGIN (implicit)
+2024-04-14 08:35:11,165 - sqlalchemy.engine.Engine - INFO - SELECT pg_catalog.pg_class.relname 
+FROM pg_catalog.pg_class JOIN pg_catalog.pg_namespace ON pg_catalog.pg_namespace.oid = pg_catalog.pg_class.relnamespace 
+WHERE pg_catalog.pg_class.relname = $1::VARCHAR AND pg_catalog.pg_class.relkind = ANY (ARRAY[$2::VARCHAR, $3::VARCHAR, $4::VARCHAR, $5::VARCHAR, $6::VARCHAR]) AND pg_catalog.pg_table_is_visible(pg_catalog.pg_class.oid) AND pg_catalog.pg_namespace.nspname != $7::VARCHAR
+2024-04-14 08:35:11,166 - sqlalchemy.engine.Engine - INFO - [generated in 0.00089s] ('managers', 'r', 'p', 'f', 'v', 'm', 'pg_catalog')
+2024-04-14 08:35:11,307 - sqlalchemy.engine.Engine - INFO - SELECT pg_catalog.pg_class.relname 
+FROM pg_catalog.pg_class JOIN pg_catalog.pg_namespace ON pg_catalog.pg_namespace.oid = pg_catalog.pg_class.relnamespace 
+WHERE pg_catalog.pg_class.relname = $1::VARCHAR AND pg_catalog.pg_class.relkind = ANY (ARRAY[$2::VARCHAR, $3::VARCHAR, $4::VARCHAR, $5::VARCHAR, $6::VARCHAR]) AND pg_catalog.pg_table_is_visible(pg_catalog.pg_class.oid) AND pg_catalog.pg_namespace.nspname != $7::VARCHAR
+2024-04-14 08:35:11,307 - sqlalchemy.engine.Engine - INFO - [cached since 0.1422s ago] ('tickets', 'r', 'p', 'f', 'v', 'm', 'pg_catalog')
+2024-04-14 08:35:11,373 - sqlalchemy.engine.Engine - INFO - SELECT pg_catalog.pg_class.relname 
+FROM pg_catalog.pg_class JOIN pg_catalog.pg_namespace ON pg_catalog.pg_namespace.oid = pg_catalog.pg_class.relnamespace 
+WHERE pg_catalog.pg_class.relname = $1::VARCHAR AND pg_catalog.pg_class.relkind = ANY (ARRAY[$2::VARCHAR, $3::VARCHAR, $4::VARCHAR, $5::VARCHAR, $6::VARCHAR]) AND pg_catalog.pg_table_is_visible(pg_catalog.pg_class.oid) AND pg_catalog.pg_namespace.nspname != $7::VARCHAR
+2024-04-14 08:35:11,374 - sqlalchemy.engine.Engine - INFO - [cached since 0.209s ago] ('executors_tickets', 'r', 'p', 'f', 'v', 'm', 'pg_catalog')
+2024-04-14 08:35:11,412 - sqlalchemy.engine.Engine - INFO - SELECT pg_catalog.pg_class.relname 
+FROM pg_catalog.pg_class JOIN pg_catalog.pg_namespace ON pg_catalog.pg_namespace.oid = pg_catalog.pg_class.relnamespace 
+WHERE pg_catalog.pg_class.relname = $1::VARCHAR AND pg_catalog.pg_class.relkind = ANY (ARRAY[$2::VARCHAR, $3::VARCHAR, $4::VARCHAR, $5::VARCHAR, $6::VARCHAR]) AND pg_catalog.pg_table_is_visible(pg_catalog.pg_class.oid) AND pg_catalog.pg_namespace.nspname != $7::VARCHAR
+2024-04-14 08:35:11,413 - sqlalchemy.engine.Engine - INFO - [cached since 0.2482s ago] ('users', 'r', 'p', 'f', 'v', 'm', 'pg_catalog')
+2024-04-14 08:35:11,499 - sqlalchemy.engine.Engine - INFO - SELECT pg_catalog.pg_class.relname 
+FROM pg_catalog.pg_class JOIN pg_catalog.pg_namespace ON pg_catalog.pg_namespace.oid = pg_catalog.pg_class.relnamespace 
+WHERE pg_catalog.pg_class.relname = $1::VARCHAR AND pg_catalog.pg_class.relkind = ANY (ARRAY[$2::VARCHAR, $3::VARCHAR, $4::VARCHAR, $5::VARCHAR, $6::VARCHAR]) AND pg_catalog.pg_table_is_visible(pg_catalog.pg_class.oid) AND pg_catalog.pg_namespace.nspname != $7::VARCHAR
+2024-04-14 08:35:11,499 - sqlalchemy.engine.Engine - INFO - [cached since 0.3348s ago] ('tickets_details', 'r', 'p', 'f', 'v', 'm', 'pg_catalog')
+2024-04-14 08:35:11,541 - sqlalchemy.engine.Engine - INFO - SELECT pg_catalog.pg_class.relname 
+FROM pg_catalog.pg_class JOIN pg_catalog.pg_namespace ON pg_catalog.pg_namespace.oid = pg_catalog.pg_class.relnamespace 
+WHERE pg_catalog.pg_class.relname = $1::VARCHAR AND pg_catalog.pg_class.relkind = ANY (ARRAY[$2::VARCHAR, $3::VARCHAR, $4::VARCHAR, $5::VARCHAR, $6::VARCHAR]) AND pg_catalog.pg_table_is_visible(pg_catalog.pg_class.oid) AND pg_catalog.pg_namespace.nspname != $7::VARCHAR
+2024-04-14 08:35:11,542 - sqlalchemy.engine.Engine - INFO - [cached since 0.3769s ago] ('ticket_photos', 'r', 'p', 'f', 'v', 'm', 'pg_catalog')
+2024-04-14 08:35:11,597 - sqlalchemy.engine.Engine - INFO - SELECT pg_catalog.pg_type.typname 
+FROM pg_catalog.pg_type JOIN pg_catalog.pg_namespace ON pg_catalog.pg_namespace.oid = pg_catalog.pg_type.typnamespace 
+WHERE pg_catalog.pg_type.typname = $1::VARCHAR AND pg_catalog.pg_type_is_visible(pg_catalog.pg_type.oid) AND pg_catalog.pg_namespace.nspname != $2::VARCHAR
+2024-04-14 08:35:11,598 - sqlalchemy.engine.Engine - INFO - [generated in 0.00077s] ('manageroles', 'pg_catalog')
+2024-04-14 08:35:11,722 - sqlalchemy.engine.Engine - INFO - SELECT pg_catalog.pg_type.typname 
+FROM pg_catalog.pg_type JOIN pg_catalog.pg_namespace ON pg_catalog.pg_namespace.oid = pg_catalog.pg_type.typnamespace 
+WHERE pg_catalog.pg_type.typname = $1::VARCHAR AND pg_catalog.pg_type_is_visible(pg_catalog.pg_type.oid) AND pg_catalog.pg_namespace.nspname != $2::VARCHAR
+2024-04-14 08:35:11,723 - sqlalchemy.engine.Engine - INFO - [cached since 0.1259s ago] ('ticketstatus', 'pg_catalog')
+2024-04-14 08:35:11,770 - sqlalchemy.engine.Engine - INFO - SELECT pg_catalog.pg_type.typname 
+FROM pg_catalog.pg_type JOIN pg_catalog.pg_namespace ON pg_catalog.pg_namespace.oid = pg_catalog.pg_type.typnamespace 
+WHERE pg_catalog.pg_type.typname = $1::VARCHAR AND pg_catalog.pg_type_is_visible(pg_catalog.pg_type.oid) AND pg_catalog.pg_namespace.nspname != $2::VARCHAR
+2024-04-14 08:35:11,771 - sqlalchemy.engine.Engine - INFO - [cached since 0.1747s ago] ('phototype', 'pg_catalog')
+2024-04-14 08:35:11,814 - sqlalchemy.engine.Engine - INFO - COMMIT
+2024-04-14 08:38:13,461 - sqlalchemy.engine.Engine - INFO - select pg_catalog.version()
+2024-04-14 08:38:13,462 - sqlalchemy.engine.Engine - INFO - [raw sql] ()
+2024-04-14 08:38:13,612 - sqlalchemy.engine.Engine - INFO - select current_schema()
+2024-04-14 08:38:13,613 - sqlalchemy.engine.Engine - INFO - [raw sql] ()
+2024-04-14 08:38:13,774 - sqlalchemy.engine.Engine - INFO - show standard_conforming_strings
+2024-04-14 08:38:13,775 - sqlalchemy.engine.Engine - INFO - [raw sql] ()
+2024-04-14 08:38:13,895 - sqlalchemy.engine.Engine - INFO - BEGIN (implicit)
+2024-04-14 08:38:13,900 - sqlalchemy.engine.Engine - INFO - SELECT pg_catalog.pg_class.relname 
+FROM pg_catalog.pg_class JOIN pg_catalog.pg_namespace ON pg_catalog.pg_namespace.oid = pg_catalog.pg_class.relnamespace 
+WHERE pg_catalog.pg_class.relname = $1::VARCHAR AND pg_catalog.pg_class.relkind = ANY (ARRAY[$2::VARCHAR, $3::VARCHAR, $4::VARCHAR, $5::VARCHAR, $6::VARCHAR]) AND pg_catalog.pg_table_is_visible(pg_catalog.pg_class.oid) AND pg_catalog.pg_namespace.nspname != $7::VARCHAR
+2024-04-14 08:38:13,901 - sqlalchemy.engine.Engine - INFO - [generated in 0.00074s] ('managers', 'r', 'p', 'f', 'v', 'm', 'pg_catalog')
+2024-04-14 08:38:14,022 - sqlalchemy.engine.Engine - INFO - SELECT pg_catalog.pg_class.relname 
+FROM pg_catalog.pg_class JOIN pg_catalog.pg_namespace ON pg_catalog.pg_namespace.oid = pg_catalog.pg_class.relnamespace 
+WHERE pg_catalog.pg_class.relname = $1::VARCHAR AND pg_catalog.pg_class.relkind = ANY (ARRAY[$2::VARCHAR, $3::VARCHAR, $4::VARCHAR, $5::VARCHAR, $6::VARCHAR]) AND pg_catalog.pg_table_is_visible(pg_catalog.pg_class.oid) AND pg_catalog.pg_namespace.nspname != $7::VARCHAR
+2024-04-14 08:38:14,023 - sqlalchemy.engine.Engine - INFO - [cached since 0.1224s ago] ('tickets', 'r', 'p', 'f', 'v', 'm', 'pg_catalog')
+2024-04-14 08:38:14,067 - sqlalchemy.engine.Engine - INFO - SELECT pg_catalog.pg_class.relname 
+FROM pg_catalog.pg_class JOIN pg_catalog.pg_namespace ON pg_catalog.pg_namespace.oid = pg_catalog.pg_class.relnamespace 
+WHERE pg_catalog.pg_class.relname = $1::VARCHAR AND pg_catalog.pg_class.relkind = ANY (ARRAY[$2::VARCHAR, $3::VARCHAR, $4::VARCHAR, $5::VARCHAR, $6::VARCHAR]) AND pg_catalog.pg_table_is_visible(pg_catalog.pg_class.oid) AND pg_catalog.pg_namespace.nspname != $7::VARCHAR
+2024-04-14 08:38:14,068 - sqlalchemy.engine.Engine - INFO - [cached since 0.1679s ago] ('executors_tickets', 'r', 'p', 'f', 'v', 'm', 'pg_catalog')
+2024-04-14 08:38:14,106 - sqlalchemy.engine.Engine - INFO - SELECT pg_catalog.pg_class.relname 
+FROM pg_catalog.pg_class JOIN pg_catalog.pg_namespace ON pg_catalog.pg_namespace.oid = pg_catalog.pg_class.relnamespace 
+WHERE pg_catalog.pg_class.relname = $1::VARCHAR AND pg_catalog.pg_class.relkind = ANY (ARRAY[$2::VARCHAR, $3::VARCHAR, $4::VARCHAR, $5::VARCHAR, $6::VARCHAR]) AND pg_catalog.pg_table_is_visible(pg_catalog.pg_class.oid) AND pg_catalog.pg_namespace.nspname != $7::VARCHAR
+2024-04-14 08:38:14,106 - sqlalchemy.engine.Engine - INFO - [cached since 0.2059s ago] ('users', 'r', 'p', 'f', 'v', 'm', 'pg_catalog')
+2024-04-14 08:38:14,143 - sqlalchemy.engine.Engine - INFO - SELECT pg_catalog.pg_class.relname 
+FROM pg_catalog.pg_class JOIN pg_catalog.pg_namespace ON pg_catalog.pg_namespace.oid = pg_catalog.pg_class.relnamespace 
+WHERE pg_catalog.pg_class.relname = $1::VARCHAR AND pg_catalog.pg_class.relkind = ANY (ARRAY[$2::VARCHAR, $3::VARCHAR, $4::VARCHAR, $5::VARCHAR, $6::VARCHAR]) AND pg_catalog.pg_table_is_visible(pg_catalog.pg_class.oid) AND pg_catalog.pg_namespace.nspname != $7::VARCHAR
+2024-04-14 08:38:14,144 - sqlalchemy.engine.Engine - INFO - [cached since 0.2437s ago] ('tickets_details', 'r', 'p', 'f', 'v', 'm', 'pg_catalog')
+2024-04-14 08:38:14,181 - sqlalchemy.engine.Engine - INFO - SELECT pg_catalog.pg_class.relname 
+FROM pg_catalog.pg_class JOIN pg_catalog.pg_namespace ON pg_catalog.pg_namespace.oid = pg_catalog.pg_class.relnamespace 
+WHERE pg_catalog.pg_class.relname = $1::VARCHAR AND pg_catalog.pg_class.relkind = ANY (ARRAY[$2::VARCHAR, $3::VARCHAR, $4::VARCHAR, $5::VARCHAR, $6::VARCHAR]) AND pg_catalog.pg_table_is_visible(pg_catalog.pg_class.oid) AND pg_catalog.pg_namespace.nspname != $7::VARCHAR
+2024-04-14 08:38:14,182 - sqlalchemy.engine.Engine - INFO - [cached since 0.2816s ago] ('ticket_photos', 'r', 'p', 'f', 'v', 'm', 'pg_catalog')
+2024-04-14 08:38:14,221 - sqlalchemy.engine.Engine - INFO - SELECT pg_catalog.pg_type.typname 
+FROM pg_catalog.pg_type JOIN pg_catalog.pg_namespace ON pg_catalog.pg_namespace.oid = pg_catalog.pg_type.typnamespace 
+WHERE pg_catalog.pg_type.typname = $1::VARCHAR AND pg_catalog.pg_type_is_visible(pg_catalog.pg_type.oid) AND pg_catalog.pg_namespace.nspname != $2::VARCHAR
+2024-04-14 08:38:14,221 - sqlalchemy.engine.Engine - INFO - [generated in 0.00070s] ('manageroles', 'pg_catalog')
+2024-04-14 08:38:14,298 - sqlalchemy.engine.Engine - INFO - SELECT pg_catalog.pg_type.typname 
+FROM pg_catalog.pg_type JOIN pg_catalog.pg_namespace ON pg_catalog.pg_namespace.oid = pg_catalog.pg_type.typnamespace 
+WHERE pg_catalog.pg_type.typname = $1::VARCHAR AND pg_catalog.pg_type_is_visible(pg_catalog.pg_type.oid) AND pg_catalog.pg_namespace.nspname != $2::VARCHAR
+2024-04-14 08:38:14,299 - sqlalchemy.engine.Engine - INFO - [cached since 0.07709s ago] ('ticketstatus', 'pg_catalog')
+2024-04-14 08:38:14,337 - sqlalchemy.engine.Engine - INFO - SELECT pg_catalog.pg_type.typname 
+FROM pg_catalog.pg_type JOIN pg_catalog.pg_namespace ON pg_catalog.pg_namespace.oid = pg_catalog.pg_type.typnamespace 
+WHERE pg_catalog.pg_type.typname = $1::VARCHAR AND pg_catalog.pg_type_is_visible(pg_catalog.pg_type.oid) AND pg_catalog.pg_namespace.nspname != $2::VARCHAR
+2024-04-14 08:38:14,338 - sqlalchemy.engine.Engine - INFO - [cached since 0.1167s ago] ('phototype', 'pg_catalog')
+2024-04-14 08:38:14,375 - sqlalchemy.engine.Engine - INFO - COMMIT
+2024-04-14 08:38:53,144 - sqlalchemy.engine.Engine - INFO - select pg_catalog.version()
+2024-04-14 08:38:53,146 - sqlalchemy.engine.Engine - INFO - [raw sql] ()
+2024-04-14 08:38:53,405 - sqlalchemy.engine.Engine - INFO - select current_schema()
+2024-04-14 08:38:53,405 - sqlalchemy.engine.Engine - INFO - [raw sql] ()
+2024-04-14 08:38:53,697 - sqlalchemy.engine.Engine - INFO - show standard_conforming_strings
+2024-04-14 08:38:53,698 - sqlalchemy.engine.Engine - INFO - [raw sql] ()
+2024-04-14 08:38:53,840 - sqlalchemy.engine.Engine - INFO - BEGIN (implicit)
+2024-04-14 08:38:53,845 - sqlalchemy.engine.Engine - INFO - SELECT pg_catalog.pg_class.relname 
+FROM pg_catalog.pg_class JOIN pg_catalog.pg_namespace ON pg_catalog.pg_namespace.oid = pg_catalog.pg_class.relnamespace 
+WHERE pg_catalog.pg_class.relname = $1::VARCHAR AND pg_catalog.pg_class.relkind = ANY (ARRAY[$2::VARCHAR, $3::VARCHAR, $4::VARCHAR, $5::VARCHAR, $6::VARCHAR]) AND pg_catalog.pg_table_is_visible(pg_catalog.pg_class.oid) AND pg_catalog.pg_namespace.nspname != $7::VARCHAR
+2024-04-14 08:38:53,846 - sqlalchemy.engine.Engine - INFO - [generated in 0.00066s] ('managers', 'r', 'p', 'f', 'v', 'm', 'pg_catalog')
+2024-04-14 08:38:54,024 - sqlalchemy.engine.Engine - INFO - SELECT pg_catalog.pg_class.relname 
+FROM pg_catalog.pg_class JOIN pg_catalog.pg_namespace ON pg_catalog.pg_namespace.oid = pg_catalog.pg_class.relnamespace 
+WHERE pg_catalog.pg_class.relname = $1::VARCHAR AND pg_catalog.pg_class.relkind = ANY (ARRAY[$2::VARCHAR, $3::VARCHAR, $4::VARCHAR, $5::VARCHAR, $6::VARCHAR]) AND pg_catalog.pg_table_is_visible(pg_catalog.pg_class.oid) AND pg_catalog.pg_namespace.nspname != $7::VARCHAR
+2024-04-14 08:38:54,025 - sqlalchemy.engine.Engine - INFO - [cached since 0.1799s ago] ('tickets', 'r', 'p', 'f', 'v', 'm', 'pg_catalog')
+2024-04-14 08:38:54,066 - sqlalchemy.engine.Engine - INFO - SELECT pg_catalog.pg_class.relname 
+FROM pg_catalog.pg_class JOIN pg_catalog.pg_namespace ON pg_catalog.pg_namespace.oid = pg_catalog.pg_class.relnamespace 
+WHERE pg_catalog.pg_class.relname = $1::VARCHAR AND pg_catalog.pg_class.relkind = ANY (ARRAY[$2::VARCHAR, $3::VARCHAR, $4::VARCHAR, $5::VARCHAR, $6::VARCHAR]) AND pg_catalog.pg_table_is_visible(pg_catalog.pg_class.oid) AND pg_catalog.pg_namespace.nspname != $7::VARCHAR
+2024-04-14 08:38:54,066 - sqlalchemy.engine.Engine - INFO - [cached since 0.2208s ago] ('executors_tickets', 'r', 'p', 'f', 'v', 'm', 'pg_catalog')
+2024-04-14 08:38:54,104 - sqlalchemy.engine.Engine - INFO - SELECT pg_catalog.pg_class.relname 
+FROM pg_catalog.pg_class JOIN pg_catalog.pg_namespace ON pg_catalog.pg_namespace.oid = pg_catalog.pg_class.relnamespace 
+WHERE pg_catalog.pg_class.relname = $1::VARCHAR AND pg_catalog.pg_class.relkind = ANY (ARRAY[$2::VARCHAR, $3::VARCHAR, $4::VARCHAR, $5::VARCHAR, $6::VARCHAR]) AND pg_catalog.pg_table_is_visible(pg_catalog.pg_class.oid) AND pg_catalog.pg_namespace.nspname != $7::VARCHAR
+2024-04-14 08:38:54,105 - sqlalchemy.engine.Engine - INFO - [cached since 0.2603s ago] ('users', 'r', 'p', 'f', 'v', 'm', 'pg_catalog')
+2024-04-14 08:38:54,144 - sqlalchemy.engine.Engine - INFO - SELECT pg_catalog.pg_class.relname 
+FROM pg_catalog.pg_class JOIN pg_catalog.pg_namespace ON pg_catalog.pg_namespace.oid = pg_catalog.pg_class.relnamespace 
+WHERE pg_catalog.pg_class.relname = $1::VARCHAR AND pg_catalog.pg_class.relkind = ANY (ARRAY[$2::VARCHAR, $3::VARCHAR, $4::VARCHAR, $5::VARCHAR, $6::VARCHAR]) AND pg_catalog.pg_table_is_visible(pg_catalog.pg_class.oid) AND pg_catalog.pg_namespace.nspname != $7::VARCHAR
+2024-04-14 08:38:54,145 - sqlalchemy.engine.Engine - INFO - [cached since 0.2996s ago] ('tickets_details', 'r', 'p', 'f', 'v', 'm', 'pg_catalog')
+2024-04-14 08:38:54,194 - sqlalchemy.engine.Engine - INFO - SELECT pg_catalog.pg_class.relname 
+FROM pg_catalog.pg_class JOIN pg_catalog.pg_namespace ON pg_catalog.pg_namespace.oid = pg_catalog.pg_class.relnamespace 
+WHERE pg_catalog.pg_class.relname = $1::VARCHAR AND pg_catalog.pg_class.relkind = ANY (ARRAY[$2::VARCHAR, $3::VARCHAR, $4::VARCHAR, $5::VARCHAR, $6::VARCHAR]) AND pg_catalog.pg_table_is_visible(pg_catalog.pg_class.oid) AND pg_catalog.pg_namespace.nspname != $7::VARCHAR
+2024-04-14 08:38:54,195 - sqlalchemy.engine.Engine - INFO - [cached since 0.3496s ago] ('ticket_photos', 'r', 'p', 'f', 'v', 'm', 'pg_catalog')
+2024-04-14 08:38:54,238 - sqlalchemy.engine.Engine - INFO - SELECT pg_catalog.pg_type.typname 
+FROM pg_catalog.pg_type JOIN pg_catalog.pg_namespace ON pg_catalog.pg_namespace.oid = pg_catalog.pg_type.typnamespace 
+WHERE pg_catalog.pg_type.typname = $1::VARCHAR AND pg_catalog.pg_type_is_visible(pg_catalog.pg_type.oid) AND pg_catalog.pg_namespace.nspname != $2::VARCHAR
+2024-04-14 08:38:54,238 - sqlalchemy.engine.Engine - INFO - [generated in 0.00067s] ('manageroles', 'pg_catalog')
+2024-04-14 08:38:54,323 - sqlalchemy.engine.Engine - INFO - SELECT pg_catalog.pg_type.typname 
+FROM pg_catalog.pg_type JOIN pg_catalog.pg_namespace ON pg_catalog.pg_namespace.oid = pg_catalog.pg_type.typnamespace 
+WHERE pg_catalog.pg_type.typname = $1::VARCHAR AND pg_catalog.pg_type_is_visible(pg_catalog.pg_type.oid) AND pg_catalog.pg_namespace.nspname != $2::VARCHAR
+2024-04-14 08:38:54,323 - sqlalchemy.engine.Engine - INFO - [cached since 0.08488s ago] ('ticketstatus', 'pg_catalog')
+2024-04-14 08:38:54,363 - sqlalchemy.engine.Engine - INFO - SELECT pg_catalog.pg_type.typname 
+FROM pg_catalog.pg_type JOIN pg_catalog.pg_namespace ON pg_catalog.pg_namespace.oid = pg_catalog.pg_type.typnamespace 
+WHERE pg_catalog.pg_type.typname = $1::VARCHAR AND pg_catalog.pg_type_is_visible(pg_catalog.pg_type.oid) AND pg_catalog.pg_namespace.nspname != $2::VARCHAR
+2024-04-14 08:38:54,363 - sqlalchemy.engine.Engine - INFO - [cached since 0.1248s ago] ('phototype', 'pg_catalog')
+2024-04-14 08:38:54,413 - sqlalchemy.engine.Engine - INFO - COMMIT
+2024-04-14 08:40:02,283 - sqlalchemy.engine.Engine - INFO - select pg_catalog.version()
+2024-04-14 08:40:02,284 - sqlalchemy.engine.Engine - INFO - [raw sql] ()
+2024-04-14 08:40:02,495 - sqlalchemy.engine.Engine - INFO - select current_schema()
+2024-04-14 08:40:02,495 - sqlalchemy.engine.Engine - INFO - [raw sql] ()
+2024-04-14 08:40:02,754 - sqlalchemy.engine.Engine - INFO - show standard_conforming_strings
+2024-04-14 08:40:02,754 - sqlalchemy.engine.Engine - INFO - [raw sql] ()
+2024-04-14 08:40:02,911 - sqlalchemy.engine.Engine - INFO - BEGIN (implicit)
+2024-04-14 08:40:02,918 - sqlalchemy.engine.Engine - INFO - SELECT pg_catalog.pg_class.relname 
+FROM pg_catalog.pg_class JOIN pg_catalog.pg_namespace ON pg_catalog.pg_namespace.oid = pg_catalog.pg_class.relnamespace 
+WHERE pg_catalog.pg_class.relname = $1::VARCHAR AND pg_catalog.pg_class.relkind = ANY (ARRAY[$2::VARCHAR, $3::VARCHAR, $4::VARCHAR, $5::VARCHAR, $6::VARCHAR]) AND pg_catalog.pg_table_is_visible(pg_catalog.pg_class.oid) AND pg_catalog.pg_namespace.nspname != $7::VARCHAR
+2024-04-14 08:40:02,918 - sqlalchemy.engine.Engine - INFO - [generated in 0.00079s] ('managers', 'r', 'p', 'f', 'v', 'm', 'pg_catalog')
+2024-04-14 08:40:03,058 - sqlalchemy.engine.Engine - INFO - SELECT pg_catalog.pg_class.relname 
+FROM pg_catalog.pg_class JOIN pg_catalog.pg_namespace ON pg_catalog.pg_namespace.oid = pg_catalog.pg_class.relnamespace 
+WHERE pg_catalog.pg_class.relname = $1::VARCHAR AND pg_catalog.pg_class.relkind = ANY (ARRAY[$2::VARCHAR, $3::VARCHAR, $4::VARCHAR, $5::VARCHAR, $6::VARCHAR]) AND pg_catalog.pg_table_is_visible(pg_catalog.pg_class.oid) AND pg_catalog.pg_namespace.nspname != $7::VARCHAR
+2024-04-14 08:40:03,059 - sqlalchemy.engine.Engine - INFO - [cached since 0.1411s ago] ('tickets', 'r', 'p', 'f', 'v', 'm', 'pg_catalog')
+2024-04-14 08:40:03,108 - sqlalchemy.engine.Engine - INFO - SELECT pg_catalog.pg_class.relname 
+FROM pg_catalog.pg_class JOIN pg_catalog.pg_namespace ON pg_catalog.pg_namespace.oid = pg_catalog.pg_class.relnamespace 
+WHERE pg_catalog.pg_class.relname = $1::VARCHAR AND pg_catalog.pg_class.relkind = ANY (ARRAY[$2::VARCHAR, $3::VARCHAR, $4::VARCHAR, $5::VARCHAR, $6::VARCHAR]) AND pg_catalog.pg_table_is_visible(pg_catalog.pg_class.oid) AND pg_catalog.pg_namespace.nspname != $7::VARCHAR
+2024-04-14 08:40:03,109 - sqlalchemy.engine.Engine - INFO - [cached since 0.1918s ago] ('executors_tickets', 'r', 'p', 'f', 'v', 'm', 'pg_catalog')
+2024-04-14 08:40:03,156 - sqlalchemy.engine.Engine - INFO - SELECT pg_catalog.pg_class.relname 
+FROM pg_catalog.pg_class JOIN pg_catalog.pg_namespace ON pg_catalog.pg_namespace.oid = pg_catalog.pg_class.relnamespace 
+WHERE pg_catalog.pg_class.relname = $1::VARCHAR AND pg_catalog.pg_class.relkind = ANY (ARRAY[$2::VARCHAR, $3::VARCHAR, $4::VARCHAR, $5::VARCHAR, $6::VARCHAR]) AND pg_catalog.pg_table_is_visible(pg_catalog.pg_class.oid) AND pg_catalog.pg_namespace.nspname != $7::VARCHAR
+2024-04-14 08:40:03,158 - sqlalchemy.engine.Engine - INFO - [cached since 0.2405s ago] ('users', 'r', 'p', 'f', 'v', 'm', 'pg_catalog')
+2024-04-14 08:40:03,205 - sqlalchemy.engine.Engine - INFO - SELECT pg_catalog.pg_class.relname 
+FROM pg_catalog.pg_class JOIN pg_catalog.pg_namespace ON pg_catalog.pg_namespace.oid = pg_catalog.pg_class.relnamespace 
+WHERE pg_catalog.pg_class.relname = $1::VARCHAR AND pg_catalog.pg_class.relkind = ANY (ARRAY[$2::VARCHAR, $3::VARCHAR, $4::VARCHAR, $5::VARCHAR, $6::VARCHAR]) AND pg_catalog.pg_table_is_visible(pg_catalog.pg_class.oid) AND pg_catalog.pg_namespace.nspname != $7::VARCHAR
+2024-04-14 08:40:03,206 - sqlalchemy.engine.Engine - INFO - [cached since 0.2885s ago] ('tickets_details', 'r', 'p', 'f', 'v', 'm', 'pg_catalog')
+2024-04-14 08:40:03,254 - sqlalchemy.engine.Engine - INFO - SELECT pg_catalog.pg_class.relname 
+FROM pg_catalog.pg_class JOIN pg_catalog.pg_namespace ON pg_catalog.pg_namespace.oid = pg_catalog.pg_class.relnamespace 
+WHERE pg_catalog.pg_class.relname = $1::VARCHAR AND pg_catalog.pg_class.relkind = ANY (ARRAY[$2::VARCHAR, $3::VARCHAR, $4::VARCHAR, $5::VARCHAR, $6::VARCHAR]) AND pg_catalog.pg_table_is_visible(pg_catalog.pg_class.oid) AND pg_catalog.pg_namespace.nspname != $7::VARCHAR
+2024-04-14 08:40:03,255 - sqlalchemy.engine.Engine - INFO - [cached since 0.3372s ago] ('ticket_photos', 'r', 'p', 'f', 'v', 'm', 'pg_catalog')
+2024-04-14 08:40:03,315 - sqlalchemy.engine.Engine - INFO - SELECT pg_catalog.pg_type.typname 
+FROM pg_catalog.pg_type JOIN pg_catalog.pg_namespace ON pg_catalog.pg_namespace.oid = pg_catalog.pg_type.typnamespace 
+WHERE pg_catalog.pg_type.typname = $1::VARCHAR AND pg_catalog.pg_type_is_visible(pg_catalog.pg_type.oid) AND pg_catalog.pg_namespace.nspname != $2::VARCHAR
+2024-04-14 08:40:03,316 - sqlalchemy.engine.Engine - INFO - [generated in 0.00107s] ('manageroles', 'pg_catalog')
+2024-04-14 08:40:03,437 - sqlalchemy.engine.Engine - INFO - SELECT pg_catalog.pg_type.typname 
+FROM pg_catalog.pg_type JOIN pg_catalog.pg_namespace ON pg_catalog.pg_namespace.oid = pg_catalog.pg_type.typnamespace 
+WHERE pg_catalog.pg_type.typname = $1::VARCHAR AND pg_catalog.pg_type_is_visible(pg_catalog.pg_type.oid) AND pg_catalog.pg_namespace.nspname != $2::VARCHAR
+2024-04-14 08:40:03,438 - sqlalchemy.engine.Engine - INFO - [cached since 0.1231s ago] ('ticketstatus', 'pg_catalog')
+2024-04-14 08:40:03,484 - sqlalchemy.engine.Engine - INFO - SELECT pg_catalog.pg_type.typname 
+FROM pg_catalog.pg_type JOIN pg_catalog.pg_namespace ON pg_catalog.pg_namespace.oid = pg_catalog.pg_type.typnamespace 
+WHERE pg_catalog.pg_type.typname = $1::VARCHAR AND pg_catalog.pg_type_is_visible(pg_catalog.pg_type.oid) AND pg_catalog.pg_namespace.nspname != $2::VARCHAR
+2024-04-14 08:40:03,485 - sqlalchemy.engine.Engine - INFO - [cached since 0.1703s ago] ('phototype', 'pg_catalog')
+2024-04-14 08:40:03,544 - sqlalchemy.engine.Engine - INFO - COMMIT
