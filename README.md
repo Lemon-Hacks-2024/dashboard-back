@@ -13,3 +13,5 @@ DB_PORT=6
 DB_USER=es
 DB_PASS=
 DB_NAME=price_control
+
+Вствить любые значения, кроме переменной MODE
